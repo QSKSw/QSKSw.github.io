@@ -1,25 +1,75 @@
-body
-{
-color:#FFFFFF;
-background-color:#000000;
+body {
+    color:#FFF;
+    background-color:#000;
+    text-align: center;
+    text-decoration: none;
 }
 
-a:link
-{
-color:#0094FF;
+a:link {
+    color:#47B2FF;
+    text-decoration: none;
+    border-bottom: 1px solid #FFF;
 }
 
-a:hover
-{
-color:#FF006E;
+a:hover, a:visited {
+    color:#FF5EA3;
+    border-bottom: 1px solid #47B2FF;
 }
 
-a:active
-{
-color:#FFFFFF;
+a:active {
+    color:#FFD800;
+    border-bottom: 1px solid #FFD800;
+    text-decoration: line-through;
 }
 
-a:visited
-{
-color:#FF006E;
+a.img_link {
+    color:#000;
+    border-bottom: none;
+    text-decoration: none;
+}
+
+th {
+    font-size: 150%;
+}
+
+th, td {
+    padding: 12px;
+    text-align: center;
+}
+
+.thumbnail {
+    position: relative;
+    z-index: 0;
+}
+
+.thumbnail:hover {
+    background-color: transparent;
+    z-index: 50;
+}
+
+.thumbnail span { /*CSS for enlarged image*/
+    position: absolute;
+    background-color: lightyellow;
+    padding: 5px;
+    left: -1000px;
+    border: 1px dashed gray;
+    visibility: hidden;
+    color: black;
+    text-decoration: none;
+}
+
+.thumbnail span img {
+    border-width: 0;
+    padding: 2px;
+}
+
+.thumbnail:hover span {
+    visibility: visible;
+    top: 0;
+    left: 60px;
+}
+
+u {
+    text-decoration: inherit;
+    border-bottom: 1px solid #FFF;
 }
