@@ -40,33 +40,80 @@ th, td {
 .thumbnail {
     position: relative;
     z-index: 0;
+    color:#000;
+    border-bottom: none;
+    text-decoration: none;
 }
 
 .thumbnail:hover {
     background-color: transparent;
     z-index: 50;
+    color:#000;
+    border-bottom: none;
+    text-decoration: none;
 }
 
-.thumbnail span { /*CSS for enlarged image*/
+.thumbnail span {
     position: absolute;
     background-color: lightyellow;
     padding: 5px;
-    left: -1000px;
+    left: -280px;
+    border: 1px dashed gray;
+    visibility: hidden;
+    color: black;
+    text-decoration: none;
+    color:#000;
+    border-bottom: none;
+    text-decoration: none;
+    font-size: 150%;
+}
+
+.thumbnail span img {
+    border-width: 0;
+    padding: 2px;
+    color:#000;
+    border-bottom: none;
+    text-decoration: none;
+}
+
+.thumbnail:hover span {
+    visibility: visible;
+    top: 0;
+    text-align: center;
+    color:#000;
+    border-bottom: none;
+    text-decoration: none;
+}
+
+.tthumbnail {
+    position: relative;
+    z-index: 0;
+}
+
+.tthumbnail:hover {
+    background-color: transparent;
+    z-index: 50;
+}
+
+.tthumbnail span {
+    position: absolute;
+    background-color: lightyellow;
+    padding: 5px;
+    left: -280px;
     border: 1px dashed gray;
     visibility: hidden;
     color: black;
     text-decoration: none;
 }
 
-.thumbnail span img {
+.tthumbnail span img {
     border-width: 0;
     padding: 2px;
 }
 
-.thumbnail:hover span {
+.tthumbnail:hover span {
     visibility: visible;
     top: 0;
-    left: 60px;
 }
 
 u {
