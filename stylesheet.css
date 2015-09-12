@@ -28,6 +28,11 @@ a.img_link {
     text-decoration: none;
 }
 
+img.invisible {
+    visibility: visible;
+    border-color: red;
+}
+
 th {
     font-size: 150%;
 }

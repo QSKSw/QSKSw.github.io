@@ -1,12 +1,15 @@
-0 - Nostalgia (MS Paint)
-1 - Fast Runner (Red, White, Yellow)
-2 - SweaterHead (Red, Gray, Gray)
-3 - Master of Fire (Red, White, Blue)
+00 - Nostalgia (MS Paint)
+01 - Fast Runner (Red, White, Yellow)
+02 - SweaterHead (Red, Gray, Gray)
+03 - Master of Fire (Red, White, Blue)
+04 - I don't know what to call this one (Maroon, Gray, Dark Blue)
 
-No Future (Black, Purple, Lime)
+05 - Run Away (Maroon, White, Cyan)
+06 - Minecon 2011 (Black, Turquoise, Blue)
 
-# - Run Away (Maroon, White, Cyan)
-# - Minecon 2011 (Black, Turquoise, Blue)
-# - On Camera (Maroon, White, Dark Blue)
+07 - No Future (Black, Purple, Lime)
 
-# - Master of Ice (Pink, White, Turquoise)
+08 - ScrewAttack
+09 - On Camera (Maroon, White, Dark Blue)
+
+10 - Master of Ice (Pink, White, Turquoise)
