@@ -18,14 +18,12 @@
 <img width="336" height="192" src="./card1.png"
 onmouseover="this.src='./card2.png'"
 onmouseout="this.src='./card2.png'"
-alt="Business Card"
 title="Business Card"
-usemap="#BusinessCard">
+usemap="BusinessCard">
 
-<map name="BusinessCard2">
-  <area shape="rect" coords="4,157,34,187" href="./mobile" alt="Mobile Version" title="Mobile Version">
-  <area shape="circle" coords="90,58,3" href="mercur.htm" alt="Mercury">
-  <area shape="circle" coords="124,58,8" href="venus.htm" alt="Venus">
+<map name="BusinessCard">
+  <area shape="rect" coords="4,157,34,187" title="Mobile Version">
+  <area shape="rect" coords="108,165,319,183" title="Contact Josefina via Email.">
 </map>
 
 <br>
@@ -62,7 +60,7 @@ title="Page Link placeholder">
 <a class="img_link" href="./donate"><img width="64" height="64" src="./buttons/paypal1.png"
 onmouseover="this.src='./buttons/paypal2.png'"
 onmouseout="this.src='./buttons/paypal3.png'"
-title="Donate to Josefina on PayPal"></a>
+title="Donate to Josefina on PayPal."></a>
 
 <img width="64" height="64" src="./buttons/placeholder1.png"
 onmouseover="this.src='./buttons/placeholder2.png'"
@@ -195,3 +193,17 @@ title="Link placeholder">
 <br><br><br>
 
 Hosting Provided by <a href="https://pages.github.com/">Github Pages</a>.
+
+<script type="text/javascript">
+if ( window.addEventListener ) {  
+  var state = 0, konami = [38,38,40,40,37,39,37,39,66,65];  
+  window.addEventListener("keydown", function(e) {  
+    if ( e.keyCode == konami[state] ) state++;  
+    else state = 0;  
+    if ( state == 10 )  
+
+window.location = "./piggys.gif"
+
+    }, true);  
+}  
+</script>
