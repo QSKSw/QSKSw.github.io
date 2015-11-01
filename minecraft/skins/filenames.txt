@@ -1,3 +1,27 @@
 Design Number
 Legacy Steve or Alex
 Masked or Unmasked
+
+Ex: 0011 = Nostalgia, Legacy, Masked
+
+00 - Nostalgia (MS Paint)
+
+01 - Fast Runner (Red, Yellow)
+02 - Trauma Recovery (Red, White, Gray)
+03 - Master of Fire (Red, White, Blue)
+04 - Broken Dreams (Maroon, Gray, Dark Blue)
+
+05 - Run Away (Maroon, White, Cyan) - Needs Redrawn
+06 - Minecon 2011 (Black, Turquoise, Blue) - Needs Redrawn
+
+07 - No Future (Black, Purple, Lime) - Needs Finish
+
+08 - ScrewAttack - Needs Redraw
+09 - ?? - ??
+
+10 - Master of Ice (Pink, White, Turquoise)
+
+?? - Catgirl Notch (Classic)
+?? - Catgirl Notch (Updated)
+?? - Casual Dress
+?? - Realgar
