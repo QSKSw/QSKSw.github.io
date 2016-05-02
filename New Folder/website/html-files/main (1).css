@@ -1,0 +1,81 @@
+ a
+ {
+    color: #00ACE5;
+    text-decoration: underline;
+ }
+
+ a:active, a:focus, a:hover, a:visited
+ {
+    color: #FF23A7;
+    text-decoration: none;
+ }
+
+ body
+ {
+    background:#000000;
+    color: #FFFFFF;
+    float:center;
+    margin-left:0px;
+    padding:5px;
+    text-align:center;
+ }
+
+ .imgthumbnail1
+ {
+    background-color: #007F0E;
+    padding: 3px;
+    border: 2px solid #FFFFFF;
+ }
+
+ .imgthumbnail2
+ {
+    background-color: #B66DDB;
+    padding: 3px;
+    border: 2px solid #FFFFFF;
+ }
+
+ p
+ {
+    margin-left:15px;
+    float:none;
+    text-align:left;
+ }
+
+ table, td, th, tr
+ {
+    border: 1px solid white;
+    padding:10px;
+    text-align:center;
+ }
+
+ .thumbnail
+ {
+    position: relative;
+    z-index: 0;
+ }
+
+ .thumbnail:hover
+ {
+    background-color: transparent;
+    z-index: 50;
+ }
+
+ .thumbnail span
+ { /*CSS for enlarged image*/
+    position: absolute;
+    background-color: #000000;
+    padding: 5px;
+    margin-top: 1cm;
+    left: -120px;
+    border: 1px dashed #FFFFFF;
+    visibility: hidden;
+    color: #FFFFFF;
+    text-decoration: none;
+ }
+
+ .thumbnail:hover span
+ { /*CSS for enlarged image on hover*/
+    visibility: visible;
+    top: 0;
+    center; /*position where enlarged image should offset horizontally */
+ }

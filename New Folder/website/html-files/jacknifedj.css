@@ -1,0 +1,32 @@
+ a
+ {
+    color: #87CDFF;
+    text-decoration: underline;
+ }
+
+ a:active, a:focus, a:hover, a:visited
+ {
+    color: #FF93F0;
+    text-decoration: none;
+ }
+
+ body
+ {
+    background:#8B00CC;
+    color: #FFFFFF;
+    float:none;
+    text-align:none;
+ }
+
+ h1
+ {
+    color: #E5BE07;
+    float:none;
+    text-align:none;
+ }
+
+ img
+ {
+    margin-left:5px;
+    margin-right:5px;
+ }

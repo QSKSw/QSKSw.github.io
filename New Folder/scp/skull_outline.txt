@@ -1,0 +1,12 @@
+0. Skull
+-Summons Child, Bunny Costume
+--Headless
+--EFFECT:
+---1. Hugs People, They Sleep
+---2. Not viewed, disappear
+---3. Things break
+--Effect extends to own page
+--Decomission Scheduled
+1. NEW EFFECT: SELF-DEFENSE(?)
+2. Interview
+3. O5's Son

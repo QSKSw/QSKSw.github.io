@@ -1,0 +1,124 @@
+1010 - Nostalgia - Mask - Avatar - 064x064
+1010 - Nostalgia - Mask - Avatar - 640x480
+1012 - Nostalgia - Mask - Steve
+1013 - Nostalgia - Mask - Alex
+1020 - Nostalgia - Hat - Avatar - 064x064
+1020 - Nostalgia - Hat - Avatar - 640x480
+1022 - Nostalgia - Hat - Steve
+1023 - Nostalgia - Hat - Alex
+
+1110 - Fast Runner - Mask - Avatar - 064x064
+1110 - Fast Runner - Mask - Avatar - 640x480
+1111 - Fast Runner - Mask - Legacy
+1112 - Fast Runner - Mask - Steve
+1113 - Fast Runner - Mask - Alex
+1120 - Fast Runner - Hat - Avatar - 064x064
+1120 - Fast Runner - Hat - Avatar - 640x480
+1121 - Fast Runner - Hat - Legacy
+1122 - Fast Runner - Hat - Steve
+1123 - Fast Runner - Hat - Alex
+
+1210 - Master of Fire - Mask - Avatar - 064x064
+1210 - Master of Fire - Mask - Avatar - 640x480
+1211 - Master of Fire - Mask - Legacy
+1212 - Master of Fire - Mask - Steve
+1213 - Master of Fire - Mask - Alex
+1220 - Master of Fire - Hat - Avatar - 064x064
+1220 - Master of Fire - Hat - Avatar - 640x480
+1221 - Master of Fire - Hat - Legacy
+1222 - Master of Fire - Hat - Steve
+1223 - Master of Fire - Hat - Alex 
+
+1310 - Trauma Recovery - Mask - Avatar - 064x064
+1310 - Trauma Recovery - Mask - Avatar - 640x480
+1311 - Trauma Recovery - Mask - Legacy
+1312 - Trauma Recovery - Mask - Steve
+1313 - Trauma Recovery - Mask - Alex
+
+1320 - Trauma Recovery - Hat - Avatar - 064x064
+1320 - Trauma Recovery - Hat - Avatar - 640x480
+1321 - Trauma Recovery - Hat - Legacy
+1322 - Trauma Recovery - Hat - Steve
+1323 - Trauma Recovery - Hat - Alex
+
+1410 - Broken Soul - Mask - Avatar - 064x064
+1410 - Broken Soul - Mask - Avatar - 640x480
+1411 - Broken Soul - Mask - Legacy
+1412 - Broken Soul - Mask - Steve
+1413 - Broken Soul - Mask - Alex
+1420 - Broken Soul - Hat - Avatar - 064x064
+1420 - Broken Soul - Hat - Avatar - 640x480
+1421 - Broken Soul - Hat - Legacy
+1422 - Broken Soul - Hat - Steve
+1423 - Broken Soul - Hat - Alex
+
+1510 - Hoodie - Runaway - Avatar - 064x064
+1510 - Hoodie - Runaway - Avatar - 640x480
+1511 - Hoodie - Runaway - Legacy
+1512 - Hoodie - Runaway - Steve
+
+1520 - Hoodie - Minecon 2011 - Avatar - 064x064
+1520 - Hoodie - Minecon 2011 - Avatar - 640x480
+1521 - Hoodie - Minecon 2011 - Legacy
+1522 - Hoodie - Minecon 2011 - Steve
+1523 - Hoodie - Minecon 2011 - Alex
+
+1610 - Zero Future - Mask - Avatar - 064x064
+1610 - Zero Future - Mask - Avatar - 640x480
+1611 - Zero Future - Mask - Legacy
+1612 - Zero Future - Mask - Steve
+1613 - Zero Future - Mask - Alex
+1620 - Zero Future - Hat - Avatar - 064x064
+1620 - Zero Future - Hat - Avatar - 640x480
+1621 - Zero Future - Hat - Legacy
+1622 - Zero Future - Hat - Steve
+1623 - Zero Future - Hat - Alex
+
+1710 - Master of Ice - Mask - Avatar - 064x064
+1710 - Master of Ice - Mask - Avatar - 640x480
+1711 - Master of Ice - Mask - Legacy
+1712 - Master of Ice - Mask - Steve
+1713 - Master of Ice - Mask - Alex
+1720 - Master of Ice - Hat - Avatar - 064x064
+1720 - Master of Ice - Hat - Avatar - 640x480
+1721 - Master of Ice - Hat - Legacy
+1722 - Master of Ice - Hat - Steve
+1723 - Master of Ice - Hat - Alex
+
+210 - Catgirl Notch - Notch - Avatar - 064x064
+210 - Catgirl Notch - Notch - Avatar - 640x480
+211 - Catgirl Notch - Notch - Legacy
+212 - Catgirl Notch - Notch - Steve
+213 - Catgirl Notch - Notch - Alex
+220 - Catgirl Notch - QSKSw - Avatar - 064x064
+220 - Catgirl Notch - QSKSw - Avatar - 640x480
+221 - Catgirl Notch - QSKSw - Legacy
+222 - Catgirl Notch - QSKSw - Steve
+223 - Catgirl Notch - QSKSw - Alex
+
+31 ScrewAttack Acquired (Samus)
+
+3110 - ScrewAttack Acquired - Power Suit - Avatar - 064x064
+3110 - ScrewAttack Acquired - Power Suit - Avatar - 640x480
+31111 - ScrewAttack Acquired - Power Suit withHelmet - Legacy
+31112 - ScrewAttack Acquired - Power Suit Helmetless- Legacy
+3112 - ScrewAttack Acquired - Power Suit - Steve
+3113 - ScrewAttack Acquired - Power Suit - Alex
+
+3120 - ScrewAttack Acquired - Zero Suit - Avatar - 064x064
+3120 - ScrewAttack Acquired - Zero Suit - Avatar - 640x480
+3121 - ScrewAttack Acquired - Zero Suit - Legacy
+3122 - ScrewAttack Acquired - Zero Suit - Steve
+3123 - ScrewAttack Acquired - Zero Suit - Alex
+
+320 - On Camera - Avatar - 064x064
+320 - On Camera - Avatar - 640x480
+321 - On Camera - Legacy
+322 - On Camera - Steve
+323 - On Camera - Alex
+
+330 - Iron Cat - Avatar - 064x064
+330 - Iron Cat - Avatar - 640x480
+331 - Iron Cat - Legacy
+332 - Iron Cat - Steve
+333 - Iron Cat - Alex
