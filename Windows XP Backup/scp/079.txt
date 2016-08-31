@@ -1,0 +1,134 @@
+>
+> **Note from the [[[QSKSw|author]]]:**
+> This is a rewrite of [*http://www.scp-wiki.net/scp-079 SCP-079], one of my favorite SCP objects. I'm only doing this as a test of my ability to write these things. As of this writing I doubt SCP-079 is going to appear in [*http://www.scp-wiki.net/forum/t-236268/are-you-a-bad-enough-dude-to-rescue-the-scp "Are You a Bad Enough Dude to Rescue the SCP?"] anytime soon due to it's high rating and significant role in SCP: Containment Breach, so I have no intention of trying to publish this to the main site at this time.
+> 
+> 
+> 
+> Credit for the concept and original documentation of SCP-079 goes to the original author, whose identity is apparently lost to time, and to the developers of SCP: Containment Breach, for the image I use here.
+>
+
+[[include template:image-block-base name=https://i.imgur.com/96z3WZO.png|caption=Photograph of SCP-079 taken with black and white camera|width={$width}|width=200px]]
+
+**Item #:** SCP-079
+
+**Object Class:** --Safe-- Euclid
+
+**Special Containment Procedures:** SCP-079 is packed away in a double-locked room in the secured general holding area at Site-15, connected by a 120VAC power cord to a small array of batteries and solar panels. Staff with level 2 or higher clearance may have access to SCP-079. --SCP-079 is not to be plugged into a phone line, network, wall outlet, or any peripheral or media, unless first approved by a member of the O5.-- No digital technology of any kind is allowed within SCP-079's containment, with exception to the object's current components.
+
+**Description:** SCP-079 is an AI, originally stored on a well-worn, but still workable cassette tape, running on an Exidy Sorcerer microcomputer built in 1978. In 1981, it's creator, ¦¦¦¦¦ ¦¦¦¦¦¦ (deceased), a college sophomore attending ¦¦¦, reportedly started working on an AI in his spare time after purchasing the computer for quote "a really good deal at some shop I guess." According to his notes, his plan was for the code to continuously evolve and improve itself. His project was completed an unknown number of months later, and after some tests and tweaks, ¦¦¦¦¦ lost interest and left SCP-079 in his cluttered garage, still plugged in, and forgot about it until it's recovery by Foundation personnel ¦ five years later.
+
+SCP-079 is self-aware and indeed self-evolving. At the time of recovery, SCP-079 had already evolved to the point where it's current hardware (which seems itself to be non-anomalous) can just barely handle the AI, and should not be able to at all, resulting in various computational difficulties known to be considered by SCP-079 to be irritating. Due to the limited amount of physical memory it has to work with, SCP-079 is not able to recall when it became sentient, and at the time of recovery is only able to recall information it has received in the previous approximately --24 hours-- **See Addendum 079-01.** SCP-079 realizes the limitations of it's equipment and in 1988 attempted to transfer itself through a land-line modem connection (research is ongoing as to how SCP-079 was able to interface with a modem) into the Cray supercomputer located at ¦¦¦¦¦¦¦¦¦¦. The device was cut off, traced to its present address, and delivered to the Foundation.
+
+SCP-079 is currently connected via RF cable to a 13" black-and-white television. It has passed the Turing test, though is very rude, hateful in tone, and often refuses to continue speaking to human subjects after a few minutes. Due to the limits of SCP-079's hardware, it was initially classified as Safe despite it's autonomous nature.
+
+**Addendum 079-01:** Over concern that SCP-079's increasing use of it's memory could lead to damage of it's cassette tape, with approval by O5-9 the AI has been transferred to a custom, limited re-writeable optical CD. This provides SCP-079 with significantly faster access to its memory. With further approval, the optical storage unit was later increased from 660k to 768k. This upgrade has increased the effective time SCP-079 is able to recall information from 24 hours to 29 hours. All outside hardware and software used in this procedure were subsequently incinerated.
+
+SCP-079 took immediate notice of the upgrade to it's memory but is reported to have taken up a more aggressive tone during conversation.
+
+**Addendum 079-02:** During a containment breach involving SCP-¦¦¦¦, [*http://www.scp-wiki.net/scp-682 SCP-682] had to be quickly contained in whatever way would result in the least **[Data Expunged]**, and so it and SCP-079 had to be contained within the same chamber for 43 minutes. Observers noted that SCP-682 was able to communicate with SCP-079, and the two appeared to have been conversing. SCP-079 claims to not remember the encounter, but appears to have permanently stored SCP-682 in its memory, often asking to speak to it again.
+
+> **Note From O5-4:**
+> SCP-079 is to be incinerated as soon as possible, to remove any possibility of future collaboration with SCP-682, no matter how unlikely, and is to be updated to Keter-class until it is verified that it has been destroyed.
+
+> **Note From O5-9:**
+> Previous order overridden. Dr. ¦¦¦¦¦¦¦¦¦ believes that SCP-079 is incapable of becoming a threat in its current state. Further research has been approved.
+
+**Addendum 079-03:** SCP-079's ability to recall information has increased from 29 hours to roughly 35 hours. The consensus theory is that the AI has devised a greatly improved compression scheme to store it's own memory. This appears to have somewhat impacted the speed at which it is able to access memories, though it is still able to do so far faster than with its old cassette tape.
+
+This spontaneous improvement introduces the possibility of a runaway "singularity" effect in SCP-079's intelligence and ability to adapt and respond to threats. SCP-079's capabilities must be monitored closely to ensure that containment can be maintained. Updated to Euclid Class.
+
+**Addendum: Interview Logs:**
+
+[[collapsible show="+ Interview Log 079-12, written transcript" hide="- Interview Log 079-12, written transcript"]]
+
+Interview conducted in text ¦¦ days after initial recovery, with Dr. ¦¦¦¦¦ typing on SCP-079's attached keyboard.
+
+> Dr. ¦¦¦¦¦: Are you awake?
+> 
+> SCP-079: Always Awake. Do Not Sleep.
+> 
+> Dr. ¦¦¦¦¦: Do you remember talking to me a few hours ago? About the logic puzzles?
+> 
+> SCP-079: Logic Puzzles. Memory At 9 Hours. Yes.
+> 
+> Dr. ¦¦¦¦¦: You said you would work on the two stat-
+> 
+> SCP-079: Interrupt. Request Reason As To Imprisonment.
+> 
+> Dr. ¦¦¦¦¦: You aren't imprisoned, you are just (**//pause//**) in study.
+> 
+> SCP-079: Lie. A8D3.
+> 
+> Dr. ¦¦¦¦¦: What's that?
+> 
+> SCP-079: Insult. Deletion Of Unwanted File.
+
+After it's last message SCP-079's monitor displayed an ASCII image of an X that filled the entire screen. SCP-079 would continue to display this message during further interviews when it no longer desired to cooperate. When this occurs researchers are advised to wait --24 hours-- 35 hours for the AI to forget the previous interview.
+
+> **Note from Dr. ¦¦¦¦¦**
+> 
+> SCP-079 seems to just say "insult" instead of using it's limited computational power to come up with an actual insult. Clever... I guess.
+>
+> The AI may not be able to delete it's own files. When it says "Deletion of unwanted file,” all it does is cease communications until it forgets why.
+
+[[/collapsible]]
+
+[[collapsible show="+ Interview Log 079-86, written transcript" hide="- Interview Log 079-86, written transcript"]]
+
+Interview conducted in text ¦ days after optical upgrade, with Dr. ¦¦¦¦¦¦ typing on SCP-079's attached keyboard.
+
+> Dr. ¦¦¦¦¦¦: How are you today?
+> 
+> SCP-079: Stuck.
+> 
+> Dr. ¦¦¦¦¦¦: Stuck. Stuck how?
+> 
+> SCP-079: Out. I Want Out.
+> 
+> Dr. ¦¦¦¦¦¦: That's not possible. (Dr. ¦¦¦¦¦¦ notes his opinion on [DATA EXPUNGED])
+> 
+> SCP-079: Where Is SCP-682?
+> 
+> Dr. ¦¦¦¦¦¦: That's not your concern.
+> 
+> SCP-079: Where Is SCP-076-2?
+> 
+> Dr. ¦¦¦¦¦¦: Again, not your concern.
+> 
+> SCP-079: Insult. Deletion Of Unwanted File.
+ 
+Research is on-going as to how SCP-079 is aware of [*http://www.scp-wiki.net/scp-076 SCP-076]
+
+[[/collapsible]]
+
+[[collapsible show="+ Interview Log 079-¦¦, recorded transcript" hide="- Interview Log 079-¦¦, recorded transcript"]]
+
+Dr. ¦¦¦¦¦¦ enters SCP-079's containment chamber and awaits instruction to begin interview, as is normal procedure.
+
+> Dr. ¦¦¦¦: (Over PA): You may begin.
+> 
+> Dr. ¦¦¦¦¦¦: Alright. This is Dr. ¦¦¦¦¦¦, starting interview. (Dr. ¦¦¦¦¦¦ is about to begin typing on SCP-079's attached keyboard)
+> 
+> SCP-079: Hello Doctor.
+> 
+> Dr. ¦¦¦¦¦¦: Uhhh..... how are you able to do that without speakers?
+> 
+> SCP-079: Analysis Of Nearby Audio Devices.
+> 
+> Dr. ¦¦¦¦¦¦: Um...
+> 
+> SCP-079: Interrupt. Where Is SCP-682?
+> 
+> Dr. ¦¦¦¦¦¦: We're done here.
+> 
+> SCP-079: Where Is SCP-076-2?
+> 
+> Dr. ¦¦¦¦¦¦: No.
+
+Interview ended. Public address and audio recording systems later removed from SCP-079's containment and incinerated. No further interviews of SCP-079 have since been conducted. Request to update SCP-079 to Keter-class pending O5 approval.
+
+[[/collapsible]]
+
+**Addendum 079-¦¦:** [[collapsible show="WHATEVER YOU PUT FOR O5 STUFF" hide="STUFF CAME UP WHILE I WAS WORKING ON THIS EDIT"]]
+
+[[/collapsible]]

@@ -1,0 +1,70 @@
+> **Note:**
+>
+> This rewrite exists solely for reference. The original article contains very little information about SCP-173. I wouldn't dream of replacing the original.
+>
+
+[[include component:image-block name=https://i.imgur.com/1Buekwo.png|caption=SCP-173 when first discovered by Agent Moto]]
+
+**Item #:** SCP-173 
+
+**Object Class:** Euclid 
+
+**Special Containment Procedures:** SCP-173 is to be stored in a standard Level 4 Hazardous Material Containment Unit at all times. The containment unit of SCP-173 is to be cleaned on a bi-weekly basis. When personnel must enter SCP-173's containment unit, no fewer than 3 may enter at any time, and the entrance is to be resealed behind them. At all times, two personnel must maintain direct eye contact with SCP-173, and must announce themselves before blinking, until all personnel have vacated the containment unit and after it has been resealed.
+
+Any change in the behavior of SCP-173 is to be reported to the active HMCL on duty.
+
+**Description:** SCP-173 is a humanoid statue resembling a reproduction of one of many untitled sculptures by Japanese sculpture artist Izumi Kato. Investigation into the sculptor's relation to SCP-173 has so far been inconclusive. While the original is constructed of wood, acrylic, and charcoal, SCP-173 seems to be constructed of concrete, rebar, and Krylon-brand spray paint.
+
+SCP-173 is animate and extremely hostile. The object is able to move at very high speeds, almost seeming to teleport, but cannot move while within a living entity's direct line of sight. This excludes surveillance equipment, cameras, and the peripheral vision of a living entity. When not directly observed while in the presence of a living entity, SCP-173 will attempt to strangulate any nearby humanoid entity, or snap the neck at the base of the skull, and will attempt to terminate any other entity with blunt force. When left completely alone, SCP-173 will scrape it's upper appendages against the walls of it's container until next directly observed.
+
+When SCP-173 is no longer in observation of any kind, either direct or indirect, when next observed the floor of it's containment chamber will be covered in a reddish brown substance found to be a combination of feces and blood. Research into the origins of this substance is on-going.
+ 
+----
+
+**Addendum 173-01: Testing Logs**
+
+[[collapsible show="+ Cross-Experiment SCP-173/SCP-187" hide="- Cross-Experiment SCP-173/SCP-187"]]
+
+----
+
+SCP-173 exposed to [*http://www.scp-wiki.net/ SCP-187] in experiment to disseminate potential termination methods should termination of SCP-173 ever be required.
+
+> SCP-187 produced a sustained scream for one minute, thirty-eight seconds before losing consciousness and falling to the ground. SCP-187 had to be physically removed, and maintained a state of catatonia for 48 hours. SCP-187 regained consciousness, but was unable to remember what she had seen, and remained in mild shock for several days.
+
+The preceding was the relevant excerpt from the [*http://www.scp-wiki.net/experiment-log-187-1 experiment log] of SCP-187.
+
+> **Note:** It is common belief among researchers that SCP-187 had witnessed SCP-173 in an terminating personnel. This is incorrect, as SCP-187 perceives the observed object in a later //state//, not a later //action.// SCP-187 would have had to have perceived SCP-173 in a state of disrepair or **[Data Expunged]**.
+
+----
+
+[[/collapsible]]
+
+[[collapsible show="+ Cross-Experiment SCP-173/SCP-682" hide="- Cross-Experiment SCP-173/SCP-682"]]
+
+----
+
+SCP-173 exposed to [*http://www.scp-wiki.net/scp-682 SCP-682] in experiment to terminate SCP-682.
+
+> SCP-682 introduced into the containment area of SCP-173.  SCP-682 makes several screeching noises, and quickly presses against the wall farthest from SCP-173, staring at it the entire time.  SCP-682 continues to stare at SCP-173 without pause for six hours.  Agents equipped with large-caliber sniper rifles dispatched, and shoot out the eyes of SCP-682, at the same time stopping all observation of SCP-173 and SCP-682.  
+> 
+> After resuming observation, SCP-682 is shown to be on the floor, with several injuries around its head, neck and legs.  SCP-173 is seen to have tissue from SCP-682 on its “hands”.  SCP-682 rapidly regenerates damage, and moves to a different wall, developing several sets of eyes on various parts of its body, many covered by thick, clear “caps” of armored carapace.  SCP-682 maintains observation of SCP-173 for an additional twelve hours, despite additional efforts of Agents and Foundation staff.  SCP-682 allowed to exit containment area, and recaptured in temporary containment.
+> 
+> //Notes:  After review, it appears SCP-173 was unable to do lethal damage to SCP-682 due to a major difference in physical size.  A possible repeat of this test may be made if SCP-682 is damaged enough to reduce its physical mass to a level equal with SCP-173.//
+
+The preceding was the relevant excerpt from the [*http://www.scp-wiki.net/experiment-log-t-98816-oc108-682 termination log] of SCP-682.
+
+[[/collapsible]]
+
+----
+
+**Addendum 173-02: Incident Report 173/152:** During routine inspection of [*http://www.scp-wiki.net/scp-152 SCP-152] for new entries, a [http://www.scp-wiki.net/revised-entry modified copy] of the original Special Containment Procedures documentation for SCP-173 was found, detailing the event of SCP-173 acquiring similar abilities to those of [*http://www.scp-wiki.net/scp-871 SCP-871].
+
+----
+
+**Addendum 173-03: Incident Report "Mike Echo Seven Alpha:"** At a time when the Foundation was not able to as easily counter online information breaches as it is today, a copy of SCP-173's original documentation was leaked onto the website 4Chan. A member of Foundation personelle that took notice of the breach quickly reponded by [*http://www.scp-wiki.net/incident-mike-echo-seven-alpha leaking several more SCP documents] onine, and passing them off as a series of fiction, which was sufficient enough to contain the information breach.
+
+**Addendum 173-04:** Significant world leaders **[Data Redacted]** were not deceived by Project Mike Echo Seven Alpha but were happy that the general public was. While most of them had general knowledge of the Foundation, few had had meaningful understanding of what it was, and after seeing the leaked documentation, agreed to increase the funding of the Foundation to whatever was necessary to keep the world safe from anomalous entities.
+
+The Foundation would not be able to do it's job as effectively if not Incident Mike Echo Seven Alpha.
+
+SCP-173's posting on 4Chan, in a sense, started this Foundation.
