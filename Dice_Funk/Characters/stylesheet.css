@@ -1,0 +1,30 @@
+a:active, a:link, a:hover, a:visited {
+	color: #FF0FF0;
+}
+
+body {
+	background-color: #000000;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+details, summary {
+	border: 1px solid #FFFF00;
+	text-align: center;
+	color: #ffff00;
+}
+
+h2
+{
+	text-align: left;
+}
+
+table, th, td {
+	border: 1px solid #FFFFFF;
+	text-align: center;
+}
+
+.spoilers {
+	border: 1px solid #ffff00;
+	text-align: center;
+}
