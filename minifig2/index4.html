@@ -577,7 +577,7 @@ function swopHeads(n){
 currHeads=currHeads+n
 if(currHeads < 0)currHeads=maxHeads
 else if(currHeads > maxHeads) currHeads=0
-document.images['avatarHeads'].src = imageDir + '/Heads/' + avatarHeadsInfo.filename[currHeads]
+document.images['avatarHeads'].src = imageDir + '/heads/' + avatarHeadsInfo.filename[currHeads]
 SaveCookie('PROah',avatarHeadsInfo.id[currHeads])
 }
 
@@ -585,7 +585,7 @@ function swopTorsos(n){
 currTorsos=currTorsos+n
 if(currTorsos < 0)currTorsos=maxTorsos
 else if(currTorsos > maxTorsos) currTorsos=0
-document.images['avatarTorsos'].src = imageDir + '/Torsos/' + avatarTorsosInfo.filename[currTorsos]
+document.images['avatarTorsos'].src = imageDir + '/torsos/' + avatarTorsosInfo.filename[currTorsos]
 SaveCookie('PROat',avatarTorsosInfo.id[currTorsos])
 }
 
@@ -593,7 +593,7 @@ function swopLegs(n){
 currLegs=currLegs+n
 if(currLegs < 0)currLegs=maxLegs
 else if(currLegs > maxLegs) currLegs=0
-document.images['avatarLegs'].src = imageDir + '/Legs/' + avatarLegsInfo.filename[currLegs]
+document.images['avatarLegs'].src = imageDir + 'legs/' + avatarLegsInfo.filename[currLegs]
 SaveCookie('PROal',avatarLegsInfo.id[currLegs])
 }
 
