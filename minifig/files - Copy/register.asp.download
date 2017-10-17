@@ -1,0 +1,856 @@
+<!-- Base url-node not found for club looking by id: '_registration_register.asp' --><!-- URL Path is  --><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html>
+	<head><script type="text/javascript" src="/static/js/analytics.js?v=1504952612.0" charset="utf-8"></script>
+
+<script type="text/javascript">archive_analytics.values.service='wb';archive_analytics.values.server_name='wwwb-app23.us.archive.org';archive_analytics.values.server_ms=440;</script><script type="text/javascript" src="/static/js/wbhack.js?v=1504952612.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1504952612.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1504952612.0" />
+
+<!-- End Wayback Rewrite JS Include -->
+		<meta http-equiv="imagetoolbar" content="no">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<title>LEGO.com - Club</title>
+		
+		
+			<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+		
+			<link rel="stylesheet" type="text/css" href="/web/20060321071323cs_/https://club.lego.com/css/club.css">
+		
+			<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20060321071323cs_/https://secure.instacontent.net/lego/css/aspVersion/globalNav_eng_asp.css">
+			<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20060321071323cs_/https://secure.instacontent.net/lego/css/aspVersion/globalFooter_eng_asp.css">
+		
+	
+			<link rel="stylesheet" type="text/css" href="/web/20060321071323cs_/https://club.lego.com/styles/lego.css">
+			<link rel="stylesheet" type="text/css" href="/web/20060321071323cs_/https://club.lego.com/styles/navigation.css">
+			<link rel="SHORTCUT ICON" href="/web/20060321071323im_/https://club.lego.com/favicon.ico">    
+		  
+
+		<script language="javascript">
+			<!--
+			function templatehover(imgname,action){
+			if (document.images){document[imgname].src = eval(imgname + action + ".src")}
+			}
+			//-->
+		</script>
+		
+		<style>
+		
+		body {
+		margin:0;
+		padding:0;
+		text-align: center;
+		min-width: 772px;
+		}
+		
+		#pageContainer{
+		width: 770px;
+		position: relative;		
+		margin: 0 auto;
+		padding: 0;
+		text-align: left;
+		}
+		
+		#contentContainer{
+		margin: 0px;
+		padding: 0px;
+		text-align: left;
+		width: 770px;
+		}
+		
+		#footerContainer{
+		margin: 0px;
+		padding: 0px;
+		text-align: left;
+		width: 770px;
+		}
+	
+
+	
+
+	</style>
+		
+	</head>
+
+	
+		<body bgcolor="#ffffff" background="/web/20060321071323im_/https://club.lego.com/eng/registration/register.asp">
+	
+
+	<!--pageContainer-->
+	<div id="pageContainer">
+	<!--globalNavContainer-->
+		
+
+<div id="h-Container">
+	<div id="h-legoLogo">
+		<a href="https://web.archive.org/web/20060321071323/http://www.lego.com/eng/"><img src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/eng/images/globalNav/049x049_logo.gif" width="49" height="49" alt="LEGO" border="0"/></a>
+	</div>
+	<ul id="h-navButtons">
+		<li id="h-homeButton"><a href="https://web.archive.org/web/20060321071323/http://www.lego.com/eng/"></a></li>
+		<li id="h-productsButton"><a href="https://web.archive.org/web/20060321071323/http://www.lego.com/eng/products/"></a></li>
+		<li id="h-clubButton"><a href="https://web.archive.org/web/20060321071323/http://club.lego.com/eng/"></a></li>
+		<li id="h-shopButton"><a href="https://web.archive.org/web/20060321071323/http://shop.lego.com/"></a></li>
+	</ul>
+	<div id="h-searchContainer">
+		<div id="h-searchForm">
+			<input type="text" name="q" value="" id="h-searchFormTextInput" class="SearchTextfields"/><a onclick="window.location='https://web.archive.org/web/20060321071323/http://search.lego.com/searchResults.asp?q=' + document.getElementById('h-searchFormTextInput').value" href="#"><img id="Img1" src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/eng/images/globalnav/059x019_search_btn.gif" width="59" height="19" alt="Submit Search" border="0"/></a>
+		</div>
+		<div id="h-privacy-bar">
+			<a href="https://web.archive.org/web/20060321071323/http://www.lego.com/eng/info/default.asp?page=privacypolicy"><img src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/eng/images/globalNav/175x008_privacy_btn.gif" alt=""/></a>
+		</div>
+	</div>
+	
+	<div id="h-LMFContainer">
+		<ul>
+			<li><p><a href="https://web.archive.org/web/20060321071323/http://club.lego.com/login/default.asp" id="h-signIn">SIGN IN</a></p></li>
+			<li><p><a href="https://web.archive.org/web/20060321071323/http://club.lego.com/registration/default.asp" id="h-registerNow">Register Now</a></p></li>
+		</ul>
+	</div>
+	
+	<div id="h-sectionColorBar"></div></div>
+
+	<!--		
+	<div id="gn-Container">
+		<div id="gn-LEGOLogo"><a href="http://www.lego.com"><img src="https://secure.instacontent.net/lego/eng/images/globalNav/legoLogo.gif" width="49" height="49" alt="LEGO" border="0" /></a></div>
+		<ul id="gn-navButtons">
+			<li id="gn-homeButton"><a href="http://www.lego.com" target="_top"></a></li>
+			<li id="gn-productsButton"><a href="http://www.lego.com/products" target="_top"></a></li>
+			<li id="gn-clubButton"><a href="http://club.lego.com" target="_top"></a></li>
+			<li id="gn-shopButton"><a href="http://shop.lego.com" target="_top"></a></li>
+			<li id="gn-legolandButton"><a href="http://www.lego.com/legoland/" target="_top"></a></li>
+		</ul>
+		<div id="gn-searchContainer"><form method=get action="http://search.lego.com/searchResults.asp" id="gn-searchForm"><p><input type="text" name='q' value="" id="gn-searchFormTextInput" /><input type="image" src="https://secure.instacontent.net/lego/eng/images/globalnav/btn038x019go.gif" width="38" height="19" border="0" id="gn-searchFormImage" NAME="gn-searchFormImage"/></p></form></div>
+		
+		<div id="LMF-AnonContainer"><p><a href="http://club.lego.com/login/default.asp" id="LMF-signIn" target="_top">SIGN IN</a><br/><a href="http://club.lego.com/registration/default.asp" id="LMF-registerNow" target="_top">Register Now</a></p></div>
+		
+		<div id="gn-sectionColorBar"></div>
+	</div>
+	-->
+		
+		
+		
+	<!--end globalNavContainer-->
+	<!--contentContainer-->
+	<div id="contentContainer">
+	
+
+
+	
+	<script language="JavaScript" type="text/javascript">
+		function newWindow(url)
+		{
+			window.open(url,'main','scrollbars=no,menubar=no,location=no,toolbar=no,resizable=no,status=yes,width=580,height=350')
+		}
+	</script>
+	
+
+
+	<table border="0" bordercolor="yellow" cellspacing="0" cellpadding="0" id="Table1" background="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/newsandfeatures/3x3greydot.gif">
+	<tr>
+		<td valign="top" height="57" background="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/newsandfeatures/3x57clubbar.gif" style="background-repeat:repeat-x">
+			<table border="0" cellspacing="0" cellpadding="0" width="770" id="Table2">
+			
+		<tr>
+			<td valign="top" background="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/newsandfeatures/759x57clubtopbar.jpg" style="background-repeat:no-repeat">
+				<table border="0" cellspacing="0" cellpadding="0" width="770" height="57">
+					<tr height="39">
+						<td colspan="3" valign="top" height="39">
+							<table border="0" bordercolor="red" cellspacing="0" cellpadding="0" width="770">
+								<tr>
+									<td width="9"><img src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/spacer.gif" width="9" height="1"></td>
+									<td width="58" height="27"><a href="/web/20060321071323/https://club.lego.com/eng/default.asp"><img src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/newsandfeatures/58x27clublogo.gif" border="0"></a></td>
+									<td width="521"><img src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/spacer.gif" width="521" height="1"></td>
+									<td>
+										<table border="0" bordercolor="yellow" cellspacing="0" cellpadding="0" width="182">
+											<form action="/web/20060321071323/https://club.lego.com/clubcode/default.asp" method="get" name="frmClubCode" id="frmClubCode">
+											<tr><td height="16"><img src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/spacer.gif" width="1" height="16"></td></tr>
+											<tr>
+												<td width="59" height="24" valign="bottom" align="left"><img src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/newsandfeatures/59x24clubcodelogo.gif"></td>
+												<td width="78" align="center">
+													
+													<input type="hidden" name="backhref" value="/eng/registration/register.asp" id="Hidden1"/>
+													<input name="code" type="text" class="inputData" value="ClubCode" size="8" onfocus="if (this.value == 'ClubCode') this.value = '';" onblur="if (this.value == '') this.value='ClubCode';">
+												</td>
+												<td width="45" valign="center" align="left">
+													<a href="javascript:frmClubCode.submit();">
+															<img src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/eng/images/club/newsandfeatures/btn37x14go.gif" border="0">
+													</a>
+												</td>
+											</tr>
+											</form>
+										</table>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+						
+					<tr height="18" valign="top">
+										
+						<td height="18" width="138" valign="top">
+						
+					<img src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/eng/images/club/registration/138x18signuptab.gif">
+						
+						</td>
+						
+						<td height="1" width="500"><img src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/spacer.gif" width="500" height="1" align="absmiddle"></td>
+						
+						<td width="132" height="18" class="text" valign="center">&nbsp;<img src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/common/7x17arrow.gif" align="absmiddle"><a href="javascript:void(window.open('https://web.archive.org/web/20060321071323/http://club.lego.com/eng/clubcode/what.asp','ClubCode','scrollbars=no,width=400,height=370'));" class="whitetext"><span style="font-size:9px">&nbsp;&nbsp;What is Club Code?</span></a></td>
+						
+						
+					</tr>
+				</table>
+			</td>
+		</tr>
+		
+			<tr>
+				<td height="10"><img src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/spacer.gif" width="1" height="10"></td>
+			</tr>
+			<tr>
+				<td valign="top">
+					<table border="0" cellspacing="0" cellpadding="0" width="770" id="Table3">
+					<tr>
+						<td><img src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/general/und1x1spacer.gif" width="10" height="10" border="0" alt=""></td>
+						<td height="10" colspan="3"></td>
+					</tr>
+					<tr>
+						<td><img src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/general/und1x1spacer.gif" width="10" height="10" border="0" alt=""></td>
+						<td colspan="3" valign="center" height="41" colspan="3" background="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/eng/images/club/registration/745x41registration.jpg" style="background-repeat:no-repeat">
+					</tr>
+					<tr>
+						<td><img src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/general/und1x1spacer.gif" width="10" height="10" border="0" alt=""></td>
+						<td colspan="3">
+							<table cellspacing="0" cellpadding="0" border="0" width="745" background="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/newsandfeatures/3x3darkgreydot.gif" id="Table4">
+							<tr>
+								<td><img src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/general/und1x1spacer.gif" width="20" border="0" alt=""></td>
+								<td align="left" valign="top">
+									<table cellspacing="0" cellpadding="0" border="0">
+									<tr>
+										<td><img src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/general/und1x1spacer.gif" height="10" border="0" alt=""></td>
+									</tr>
+									<tr>
+										<td><font class="regtext"><b>Choose a lego minifig to represent you.</b></font></td>
+									</tr>
+									<tr>
+										<td align="left" valign="top"><br>
+											
+
+<script language="javascript">
+<!--
+
+var imageDir = 'https://web.archive.org/web/20060321071323/https://secure.instacontent.net/lego/images/club/MiniFigs'
+
+function avatarInfo(){
+	this.id = new Array(); this.filename = new Array();
+}
+
+
+var currHeads = 0; // track the currently selected value.
+var currTorsos = 0;
+var currLegs = 0;
+
+
+function SaveCookie(avatarType,avatarID){
+	document.cookie = avatarType + '=' + avatarID;
+	bitSaveChanges=1
+}
+
+
+
+var avatarHeadsInfo = new avatarInfo()
+currHeads=0;
+avatarHeadsInfo.id[0]=1;avatarHeadsInfo.filename[0]='head1.gif';
+avatarHeadsInfo.id[1]=2;avatarHeadsInfo.filename[1]='head2.gif';
+avatarHeadsInfo.id[2]=3;avatarHeadsInfo.filename[2]='head3.gif';
+avatarHeadsInfo.id[3]=4;avatarHeadsInfo.filename[3]='head4.gif';
+avatarHeadsInfo.id[4]=5;avatarHeadsInfo.filename[4]='head5.gif';
+avatarHeadsInfo.id[5]=6;avatarHeadsInfo.filename[5]='head6.gif';
+avatarHeadsInfo.id[6]=7;avatarHeadsInfo.filename[6]='head7.gif';
+avatarHeadsInfo.id[7]=8;avatarHeadsInfo.filename[7]='head8.gif';
+avatarHeadsInfo.id[8]=9;avatarHeadsInfo.filename[8]='head9.gif';
+avatarHeadsInfo.id[9]=10;avatarHeadsInfo.filename[9]='head10.gif';
+avatarHeadsInfo.id[10]=11;avatarHeadsInfo.filename[10]='head11.gif';
+avatarHeadsInfo.id[11]=12;avatarHeadsInfo.filename[11]='head12.gif';
+avatarHeadsInfo.id[12]=13;avatarHeadsInfo.filename[12]='head13.gif';
+avatarHeadsInfo.id[13]=14;avatarHeadsInfo.filename[13]='head14.gif';
+avatarHeadsInfo.id[14]=15;avatarHeadsInfo.filename[14]='head15.gif';
+avatarHeadsInfo.id[15]=16;avatarHeadsInfo.filename[15]='head16.gif';
+avatarHeadsInfo.id[16]=17;avatarHeadsInfo.filename[16]='head17.gif';
+avatarHeadsInfo.id[17]=18;avatarHeadsInfo.filename[17]='head18.gif';
+avatarHeadsInfo.id[18]=19;avatarHeadsInfo.filename[18]='head19.gif';
+avatarHeadsInfo.id[19]=20;avatarHeadsInfo.filename[19]='head20.gif';
+avatarHeadsInfo.id[20]=21;avatarHeadsInfo.filename[20]='head21.gif';
+avatarHeadsInfo.id[21]=22;avatarHeadsInfo.filename[21]='head22.gif';
+avatarHeadsInfo.id[22]=23;avatarHeadsInfo.filename[22]='head23.gif';
+avatarHeadsInfo.id[23]=24;avatarHeadsInfo.filename[23]='head24.gif';
+avatarHeadsInfo.id[24]=25;avatarHeadsInfo.filename[24]='head25.gif';
+avatarHeadsInfo.id[25]=26;avatarHeadsInfo.filename[25]='head26.gif';
+avatarHeadsInfo.id[26]=27;avatarHeadsInfo.filename[26]='head27.gif';
+avatarHeadsInfo.id[27]=28;avatarHeadsInfo.filename[27]='head28.gif';
+avatarHeadsInfo.id[28]=29;avatarHeadsInfo.filename[28]='head29.gif';
+avatarHeadsInfo.id[29]=30;avatarHeadsInfo.filename[29]='head30.gif';
+avatarHeadsInfo.id[30]=31;avatarHeadsInfo.filename[30]='head31.gif';
+avatarHeadsInfo.id[31]=32;avatarHeadsInfo.filename[31]='head32.gif';
+avatarHeadsInfo.id[32]=33;avatarHeadsInfo.filename[32]='head33.gif';
+avatarHeadsInfo.id[33]=34;avatarHeadsInfo.filename[33]='head34.gif';
+avatarHeadsInfo.id[34]=35;avatarHeadsInfo.filename[34]='head35.gif';
+avatarHeadsInfo.id[35]=36;avatarHeadsInfo.filename[35]='head36.gif';
+avatarHeadsInfo.id[36]=37;avatarHeadsInfo.filename[36]='head37.gif';
+avatarHeadsInfo.id[37]=38;avatarHeadsInfo.filename[37]='head38.gif';
+avatarHeadsInfo.id[38]=39;avatarHeadsInfo.filename[38]='head39.gif';
+avatarHeadsInfo.id[39]=40;avatarHeadsInfo.filename[39]='head40.gif';
+avatarHeadsInfo.id[40]=41;avatarHeadsInfo.filename[40]='head41.gif';
+avatarHeadsInfo.id[41]=42;avatarHeadsInfo.filename[41]='head42.gif';
+avatarHeadsInfo.id[42]=43;avatarHeadsInfo.filename[42]='head43.gif';
+avatarHeadsInfo.id[43]=44;avatarHeadsInfo.filename[43]='head44.gif';
+avatarHeadsInfo.id[44]=45;avatarHeadsInfo.filename[44]='head45.gif';
+avatarHeadsInfo.id[45]=46;avatarHeadsInfo.filename[45]='head46.gif';
+avatarHeadsInfo.id[46]=47;avatarHeadsInfo.filename[46]='head47.gif';
+avatarHeadsInfo.id[47]=48;avatarHeadsInfo.filename[47]='head48.gif';
+avatarHeadsInfo.id[48]=49;avatarHeadsInfo.filename[48]='head49.gif';
+avatarHeadsInfo.id[49]=50;avatarHeadsInfo.filename[49]='head50.gif';
+avatarHeadsInfo.id[50]=51;avatarHeadsInfo.filename[50]='head51.gif';
+avatarHeadsInfo.id[51]=52;avatarHeadsInfo.filename[51]='head52.gif';
+avatarHeadsInfo.id[52]=53;avatarHeadsInfo.filename[52]='head53.gif';
+avatarHeadsInfo.id[53]=54;avatarHeadsInfo.filename[53]='head54.gif';
+avatarHeadsInfo.id[54]=55;avatarHeadsInfo.filename[54]='head55.gif';
+avatarHeadsInfo.id[55]=56;avatarHeadsInfo.filename[55]='head56.gif';
+avatarHeadsInfo.id[56]=57;avatarHeadsInfo.filename[56]='head57.gif';
+avatarHeadsInfo.id[57]=58;avatarHeadsInfo.filename[57]='head58.gif';
+avatarHeadsInfo.id[58]=59;avatarHeadsInfo.filename[58]='head59.gif';
+avatarHeadsInfo.id[59]=60;avatarHeadsInfo.filename[59]='head60.gif';
+avatarHeadsInfo.id[60]=61;avatarHeadsInfo.filename[60]='head61.gif';
+avatarHeadsInfo.id[61]=62;avatarHeadsInfo.filename[61]='head62.gif';
+avatarHeadsInfo.id[62]=63;avatarHeadsInfo.filename[62]='head63.gif';
+avatarHeadsInfo.id[63]=64;avatarHeadsInfo.filename[63]='head64.gif';
+avatarHeadsInfo.id[64]=65;avatarHeadsInfo.filename[64]='head65.gif';
+avatarHeadsInfo.id[65]=66;avatarHeadsInfo.filename[65]='head66.gif';
+avatarHeadsInfo.id[66]=67;avatarHeadsInfo.filename[66]='head67.gif';
+avatarHeadsInfo.id[67]=68;avatarHeadsInfo.filename[67]='head68.gif';
+avatarHeadsInfo.id[68]=69;avatarHeadsInfo.filename[68]='head69.gif';
+avatarHeadsInfo.id[69]=70;avatarHeadsInfo.filename[69]='head70.gif';
+avatarHeadsInfo.id[70]=71;avatarHeadsInfo.filename[70]='head71.gif';
+avatarHeadsInfo.id[71]=72;avatarHeadsInfo.filename[71]='head72.gif';
+avatarHeadsInfo.id[72]=73;avatarHeadsInfo.filename[72]='head73.gif';
+avatarHeadsInfo.id[73]=74;avatarHeadsInfo.filename[73]='head74.gif';
+avatarHeadsInfo.id[74]=75;avatarHeadsInfo.filename[74]='head75.gif';
+avatarHeadsInfo.id[75]=76;avatarHeadsInfo.filename[75]='head76.gif';
+avatarHeadsInfo.id[76]=77;avatarHeadsInfo.filename[76]='head77.gif';
+avatarHeadsInfo.id[77]=78;avatarHeadsInfo.filename[77]='head78.gif';
+avatarHeadsInfo.id[78]=79;avatarHeadsInfo.filename[78]='head79.gif';
+avatarHeadsInfo.id[79]=80;avatarHeadsInfo.filename[79]='head80.gif';
+avatarHeadsInfo.id[80]=81;avatarHeadsInfo.filename[80]='head81.gif';
+avatarHeadsInfo.id[81]=82;avatarHeadsInfo.filename[81]='head82.gif';
+avatarHeadsInfo.id[82]=83;avatarHeadsInfo.filename[82]='head83.gif';
+avatarHeadsInfo.id[83]=84;avatarHeadsInfo.filename[83]='head84.gif';
+avatarHeadsInfo.id[84]=85;avatarHeadsInfo.filename[84]='head85.gif';
+avatarHeadsInfo.id[85]=86;avatarHeadsInfo.filename[85]='head86.gif';
+avatarHeadsInfo.id[86]=87;avatarHeadsInfo.filename[86]='head87.gif';
+avatarHeadsInfo.id[87]=88;avatarHeadsInfo.filename[87]='head88.gif';
+avatarHeadsInfo.id[88]=89;avatarHeadsInfo.filename[88]='head89.gif';
+avatarHeadsInfo.id[89]=90;avatarHeadsInfo.filename[89]='head90.gif';
+avatarHeadsInfo.id[90]=91;avatarHeadsInfo.filename[90]='head91.gif';
+avatarHeadsInfo.id[91]=92;avatarHeadsInfo.filename[91]='head92.gif';
+avatarHeadsInfo.id[92]=93;avatarHeadsInfo.filename[92]='head93.gif';
+avatarHeadsInfo.id[93]=94;avatarHeadsInfo.filename[93]='head94.gif';
+avatarHeadsInfo.id[94]=95;avatarHeadsInfo.filename[94]='head95.gif';
+avatarHeadsInfo.id[95]=96;avatarHeadsInfo.filename[95]='head96.gif';
+avatarHeadsInfo.id[96]=97;avatarHeadsInfo.filename[96]='head97.gif';
+avatarHeadsInfo.id[97]=98;avatarHeadsInfo.filename[97]='head98.gif';
+avatarHeadsInfo.id[98]=99;avatarHeadsInfo.filename[98]='head99.gif';
+avatarHeadsInfo.id[99]=100;avatarHeadsInfo.filename[99]='head100.gif';
+avatarHeadsInfo.id[100]=101;avatarHeadsInfo.filename[100]='head101.gif';
+avatarHeadsInfo.id[101]=102;avatarHeadsInfo.filename[101]='head102.gif';
+avatarHeadsInfo.id[102]=103;avatarHeadsInfo.filename[102]='head103.gif';
+avatarHeadsInfo.id[103]=104;avatarHeadsInfo.filename[103]='head104.gif';
+avatarHeadsInfo.id[104]=105;avatarHeadsInfo.filename[104]='head105.gif';
+avatarHeadsInfo.id[105]=106;avatarHeadsInfo.filename[105]='head106.gif';
+avatarHeadsInfo.id[106]=107;avatarHeadsInfo.filename[106]='head107.gif';
+avatarHeadsInfo.id[107]=108;avatarHeadsInfo.filename[107]='head108.gif';
+avatarHeadsInfo.id[108]=109;avatarHeadsInfo.filename[108]='head109.gif';
+avatarHeadsInfo.id[109]=110;avatarHeadsInfo.filename[109]='head110.gif';
+avatarHeadsInfo.id[110]=111;avatarHeadsInfo.filename[110]='head111.gif';
+avatarHeadsInfo.id[111]=112;avatarHeadsInfo.filename[111]='head112.gif';
+avatarHeadsInfo.id[112]=113;avatarHeadsInfo.filename[112]='head113.gif';
+avatarHeadsInfo.id[113]=114;avatarHeadsInfo.filename[113]='head114.gif';
+avatarHeadsInfo.id[114]=115;avatarHeadsInfo.filename[114]='head115.gif';
+avatarHeadsInfo.id[115]=116;avatarHeadsInfo.filename[115]='head116.gif';
+avatarHeadsInfo.id[116]=117;avatarHeadsInfo.filename[116]='head117.gif';
+avatarHeadsInfo.id[117]=118;avatarHeadsInfo.filename[117]='head118.gif';
+avatarHeadsInfo.id[118]=119;avatarHeadsInfo.filename[118]='head119.gif';
+avatarHeadsInfo.id[119]=120;avatarHeadsInfo.filename[119]='head120.gif';
+avatarHeadsInfo.id[120]=121;avatarHeadsInfo.filename[120]='head121.gif';
+avatarHeadsInfo.id[121]=122;avatarHeadsInfo.filename[121]='head122.gif';
+avatarHeadsInfo.id[122]=123;avatarHeadsInfo.filename[122]='head123.gif';
+avatarHeadsInfo.id[123]=124;avatarHeadsInfo.filename[123]='head124.gif';
+avatarHeadsInfo.id[124]=125;avatarHeadsInfo.filename[124]='head125.gif';
+avatarHeadsInfo.id[125]=126;avatarHeadsInfo.filename[125]='head126.gif';
+avatarHeadsInfo.id[126]=127;avatarHeadsInfo.filename[126]='head127.gif';
+avatarHeadsInfo.id[127]=128;avatarHeadsInfo.filename[127]='head128.gif';
+avatarHeadsInfo.id[128]=129;avatarHeadsInfo.filename[128]='head129.gif';
+avatarHeadsInfo.id[129]=130;avatarHeadsInfo.filename[129]='head130.gif';
+avatarHeadsInfo.id[130]=131;avatarHeadsInfo.filename[130]='head131.gif';
+avatarHeadsInfo.id[131]=132;avatarHeadsInfo.filename[131]='head132.gif';
+avatarHeadsInfo.id[132]=133;avatarHeadsInfo.filename[132]='head133.gif';
+avatarHeadsInfo.id[133]=134;avatarHeadsInfo.filename[133]='head134.gif';
+avatarHeadsInfo.id[134]=135;avatarHeadsInfo.filename[134]='head135.gif';
+avatarHeadsInfo.id[135]=136;avatarHeadsInfo.filename[135]='head136.gif';
+avatarHeadsInfo.id[136]=137;avatarHeadsInfo.filename[136]='head137.gif';
+avatarHeadsInfo.id[137]=138;avatarHeadsInfo.filename[137]='head138.gif';
+avatarHeadsInfo.id[138]=139;avatarHeadsInfo.filename[138]='head139.gif';
+avatarHeadsInfo.id[139]=140;avatarHeadsInfo.filename[139]='head140.gif';
+avatarHeadsInfo.id[140]=141;avatarHeadsInfo.filename[140]='head141.gif';
+avatarHeadsInfo.id[141]=142;avatarHeadsInfo.filename[141]='head142.gif';
+avatarHeadsInfo.id[142]=143;avatarHeadsInfo.filename[142]='head143.gif';
+avatarHeadsInfo.id[143]=144;avatarHeadsInfo.filename[143]='head144.gif';
+avatarHeadsInfo.id[144]=145;avatarHeadsInfo.filename[144]='head145.gif';
+avatarHeadsInfo.id[145]=146;avatarHeadsInfo.filename[145]='head146.gif';
+avatarHeadsInfo.id[146]=147;avatarHeadsInfo.filename[146]='head147.gif';
+avatarHeadsInfo.id[147]=148;avatarHeadsInfo.filename[147]='head148.gif';
+avatarHeadsInfo.id[148]=149;avatarHeadsInfo.filename[148]='head149.gif';
+avatarHeadsInfo.id[149]=150;avatarHeadsInfo.filename[149]='head150.gif';
+avatarHeadsInfo.id[150]=151;avatarHeadsInfo.filename[150]='head151.gif';
+avatarHeadsInfo.id[151]=152;avatarHeadsInfo.filename[151]='head152.gif';
+avatarHeadsInfo.id[152]=153;avatarHeadsInfo.filename[152]='head153.gif';
+avatarHeadsInfo.id[153]=154;avatarHeadsInfo.filename[153]='head154.gif';
+avatarHeadsInfo.id[154]=155;avatarHeadsInfo.filename[154]='head155.gif';
+avatarHeadsInfo.id[155]=156;avatarHeadsInfo.filename[155]='head156.gif';
+avatarHeadsInfo.id[156]=157;avatarHeadsInfo.filename[156]='head157.gif';
+avatarHeadsInfo.id[157]=158;avatarHeadsInfo.filename[157]='head158.gif';
+avatarHeadsInfo.id[158]=159;avatarHeadsInfo.filename[158]='head159.gif';
+avatarHeadsInfo.id[159]=160;avatarHeadsInfo.filename[159]='head160.gif';
+avatarHeadsInfo.id[160]=161;avatarHeadsInfo.filename[160]='head161.gif';
+avatarHeadsInfo.id[161]=162;avatarHeadsInfo.filename[161]='head162.gif';
+avatarHeadsInfo.id[162]=163;avatarHeadsInfo.filename[162]='head163.gif';
+avatarHeadsInfo.id[163]=164;avatarHeadsInfo.filename[163]='head164.gif';
+avatarHeadsInfo.id[164]=165;avatarHeadsInfo.filename[164]='head165.gif';
+avatarHeadsInfo.id[165]=166;avatarHeadsInfo.filename[165]='head166.gif';
+avatarHeadsInfo.id[166]=167;avatarHeadsInfo.filename[166]='head167.gif';
+avatarHeadsInfo.id[167]=168;avatarHeadsInfo.filename[167]='head168.gif';
+avatarHeadsInfo.id[168]=169;avatarHeadsInfo.filename[168]='head169.gif';
+avatarHeadsInfo.id[169]=170;avatarHeadsInfo.filename[169]='head170.gif';
+avatarHeadsInfo.id[170]=171;avatarHeadsInfo.filename[170]='head171.gif';
+avatarHeadsInfo.id[171]=172;avatarHeadsInfo.filename[171]='head172.gif';
+avatarHeadsInfo.id[172]=173;avatarHeadsInfo.filename[172]='head173.gif';
+avatarHeadsInfo.id[173]=174;avatarHeadsInfo.filename[173]='head174.gif';
+avatarHeadsInfo.id[174]=175;avatarHeadsInfo.filename[174]='head175.gif';
+avatarHeadsInfo.id[175]=176;avatarHeadsInfo.filename[175]='head176.gif';
+avatarHeadsInfo.id[176]=177;avatarHeadsInfo.filename[176]='head177.gif';
+avatarHeadsInfo.id[177]=178;avatarHeadsInfo.filename[177]='head178.gif';
+avatarHeadsInfo.id[178]=179;avatarHeadsInfo.filename[178]='head179.gif';
+avatarHeadsInfo.id[179]=180;avatarHeadsInfo.filename[179]='head180.gif';
+avatarHeadsInfo.id[180]=181;avatarHeadsInfo.filename[180]='head181.gif';
+avatarHeadsInfo.id[181]=182;avatarHeadsInfo.filename[181]='head182.gif';
+avatarHeadsInfo.id[182]=183;avatarHeadsInfo.filename[182]='head183.gif';
+avatarHeadsInfo.id[183]=184;avatarHeadsInfo.filename[183]='head184.gif';
+avatarHeadsInfo.id[184]=185;avatarHeadsInfo.filename[184]='head185.gif';
+avatarHeadsInfo.id[185]=186;avatarHeadsInfo.filename[185]='head186.gif';
+avatarHeadsInfo.id[186]=187;avatarHeadsInfo.filename[186]='head187.gif';
+avatarHeadsInfo.id[187]=188;avatarHeadsInfo.filename[187]='head188.gif';
+avatarHeadsInfo.id[188]=189;avatarHeadsInfo.filename[188]='head189.gif';
+avatarHeadsInfo.id[189]=190;avatarHeadsInfo.filename[189]='head190.gif';
+avatarHeadsInfo.id[190]=191;avatarHeadsInfo.filename[190]='head191.gif';
+avatarHeadsInfo.id[191]=192;avatarHeadsInfo.filename[191]='head192.gif';
+avatarHeadsInfo.id[192]=193;avatarHeadsInfo.filename[192]='head193.gif';
+avatarHeadsInfo.id[193]=194;avatarHeadsInfo.filename[193]='head194.gif';
+avatarHeadsInfo.id[194]=195;avatarHeadsInfo.filename[194]='head195.gif';
+avatarHeadsInfo.id[195]=196;avatarHeadsInfo.filename[195]='head196.gif';
+avatarHeadsInfo.id[196]=197;avatarHeadsInfo.filename[196]='head197.gif';
+avatarHeadsInfo.id[197]=198;avatarHeadsInfo.filename[197]='head198.gif';
+avatarHeadsInfo.id[198]=199;avatarHeadsInfo.filename[198]='head199.gif';
+avatarHeadsInfo.id[199]=200;avatarHeadsInfo.filename[199]='head200.gif';
+avatarHeadsInfo.id[200]=201;avatarHeadsInfo.filename[200]='head201.gif';
+avatarHeadsInfo.id[201]=202;avatarHeadsInfo.filename[201]='head202.gif';
+avatarHeadsInfo.id[202]=203;avatarHeadsInfo.filename[202]='head203.gif';
+avatarHeadsInfo.id[203]=204;avatarHeadsInfo.filename[203]='head204.gif';
+avatarHeadsInfo.id[204]=205;avatarHeadsInfo.filename[204]='head205.gif';
+avatarHeadsInfo.id[205]=206;avatarHeadsInfo.filename[205]='head206.gif';
+avatarHeadsInfo.id[206]=207;avatarHeadsInfo.filename[206]='head207.gif';
+avatarHeadsInfo.id[207]=208;avatarHeadsInfo.filename[207]='head208.gif';
+avatarHeadsInfo.id[208]=209;avatarHeadsInfo.filename[208]='head209.gif';
+avatarHeadsInfo.id[209]=210;avatarHeadsInfo.filename[209]='head210.gif';
+avatarHeadsInfo.id[210]=211;avatarHeadsInfo.filename[210]='head211.gif';
+avatarHeadsInfo.id[211]=212;avatarHeadsInfo.filename[211]='head212.gif';
+avatarHeadsInfo.id[212]=213;avatarHeadsInfo.filename[212]='head213.gif';
+avatarHeadsInfo.id[213]=214;avatarHeadsInfo.filename[213]='head214.gif';
+avatarHeadsInfo.id[214]=215;avatarHeadsInfo.filename[214]='head215.gif';
+avatarHeadsInfo.id[215]=216;avatarHeadsInfo.filename[215]='head216.gif';
+avatarHeadsInfo.id[216]=217;avatarHeadsInfo.filename[216]='head217.gif';
+avatarHeadsInfo.id[217]=218;avatarHeadsInfo.filename[217]='head218.gif';
+avatarHeadsInfo.id[218]=219;avatarHeadsInfo.filename[218]='head219.gif';
+avatarHeadsInfo.id[219]=220;avatarHeadsInfo.filename[219]='head220.gif';
+avatarHeadsInfo.id[220]=221;avatarHeadsInfo.filename[220]='head221.gif';
+avatarHeadsInfo.id[221]=222;avatarHeadsInfo.filename[221]='head222.gif';
+avatarHeadsInfo.id[222]=223;avatarHeadsInfo.filename[222]='head223.gif';
+avatarHeadsInfo.id[223]=224;avatarHeadsInfo.filename[223]='head224.gif';
+avatarHeadsInfo.id[224]=225;avatarHeadsInfo.filename[224]='head225.gif';
+avatarHeadsInfo.id[225]=226;avatarHeadsInfo.filename[225]='head226.gif';
+avatarHeadsInfo.id[226]=227;avatarHeadsInfo.filename[226]='head227.gif';
+avatarHeadsInfo.id[227]=228;avatarHeadsInfo.filename[227]='head228.gif';
+avatarHeadsInfo.id[228]=229;avatarHeadsInfo.filename[228]='head229.gif';
+avatarHeadsInfo.id[229]=230;avatarHeadsInfo.filename[229]='head230.gif';
+avatarHeadsInfo.id[230]=231;avatarHeadsInfo.filename[230]='head231.gif';
+avatarHeadsInfo.id[231]=232;avatarHeadsInfo.filename[231]='head232.gif';
+avatarHeadsInfo.id[232]=233;avatarHeadsInfo.filename[232]='head233.gif';
+avatarHeadsInfo.id[233]=234;avatarHeadsInfo.filename[233]='head234.gif';
+avatarHeadsInfo.id[234]=235;avatarHeadsInfo.filename[234]='head235.gif';
+avatarHeadsInfo.id[235]=236;avatarHeadsInfo.filename[235]='head236.gif';
+var maxHeads=avatarHeadsInfo.id.length - 1;
+var avatarTorsosInfo = new avatarInfo()
+currTorsos=0;
+avatarTorsosInfo.id[0]=237;avatarTorsosInfo.filename[0]='torso1.gif';
+avatarTorsosInfo.id[1]=238;avatarTorsosInfo.filename[1]='torso2.gif';
+avatarTorsosInfo.id[2]=239;avatarTorsosInfo.filename[2]='torso3.gif';
+avatarTorsosInfo.id[3]=240;avatarTorsosInfo.filename[3]='torso4.gif';
+avatarTorsosInfo.id[4]=241;avatarTorsosInfo.filename[4]='torso5.gif';
+avatarTorsosInfo.id[5]=242;avatarTorsosInfo.filename[5]='torso6.gif';
+avatarTorsosInfo.id[6]=243;avatarTorsosInfo.filename[6]='torso7.gif';
+avatarTorsosInfo.id[7]=244;avatarTorsosInfo.filename[7]='torso8.gif';
+avatarTorsosInfo.id[8]=245;avatarTorsosInfo.filename[8]='torso9.gif';
+avatarTorsosInfo.id[9]=246;avatarTorsosInfo.filename[9]='torso10.gif';
+avatarTorsosInfo.id[10]=247;avatarTorsosInfo.filename[10]='torso11.gif';
+avatarTorsosInfo.id[11]=248;avatarTorsosInfo.filename[11]='torso12.gif';
+avatarTorsosInfo.id[12]=249;avatarTorsosInfo.filename[12]='torso13.gif';
+avatarTorsosInfo.id[13]=250;avatarTorsosInfo.filename[13]='torso14.gif';
+avatarTorsosInfo.id[14]=251;avatarTorsosInfo.filename[14]='torso15.gif';
+avatarTorsosInfo.id[15]=252;avatarTorsosInfo.filename[15]='torso16.gif';
+avatarTorsosInfo.id[16]=253;avatarTorsosInfo.filename[16]='torso17.gif';
+avatarTorsosInfo.id[17]=254;avatarTorsosInfo.filename[17]='torso18.gif';
+avatarTorsosInfo.id[18]=255;avatarTorsosInfo.filename[18]='torso19.gif';
+avatarTorsosInfo.id[19]=256;avatarTorsosInfo.filename[19]='torso20.gif';
+avatarTorsosInfo.id[20]=257;avatarTorsosInfo.filename[20]='torso21.gif';
+avatarTorsosInfo.id[21]=258;avatarTorsosInfo.filename[21]='torso22.gif';
+avatarTorsosInfo.id[22]=259;avatarTorsosInfo.filename[22]='torso23.gif';
+avatarTorsosInfo.id[23]=260;avatarTorsosInfo.filename[23]='torso24.gif';
+avatarTorsosInfo.id[24]=261;avatarTorsosInfo.filename[24]='torso25.gif';
+avatarTorsosInfo.id[25]=262;avatarTorsosInfo.filename[25]='torso26.gif';
+avatarTorsosInfo.id[26]=263;avatarTorsosInfo.filename[26]='torso27.gif';
+avatarTorsosInfo.id[27]=264;avatarTorsosInfo.filename[27]='torso28.gif';
+avatarTorsosInfo.id[28]=265;avatarTorsosInfo.filename[28]='torso29.gif';
+avatarTorsosInfo.id[29]=266;avatarTorsosInfo.filename[29]='torso30.gif';
+avatarTorsosInfo.id[30]=267;avatarTorsosInfo.filename[30]='torso31.gif';
+avatarTorsosInfo.id[31]=268;avatarTorsosInfo.filename[31]='torso32.gif';
+avatarTorsosInfo.id[32]=269;avatarTorsosInfo.filename[32]='torso33.gif';
+avatarTorsosInfo.id[33]=270;avatarTorsosInfo.filename[33]='torso34.gif';
+avatarTorsosInfo.id[34]=271;avatarTorsosInfo.filename[34]='torso35.gif';
+avatarTorsosInfo.id[35]=272;avatarTorsosInfo.filename[35]='torso36.gif';
+avatarTorsosInfo.id[36]=273;avatarTorsosInfo.filename[36]='torso37.gif';
+var maxTorsos=avatarTorsosInfo.id.length - 1;
+var avatarLegsInfo = new avatarInfo()
+currLegs=0;
+avatarLegsInfo.id[0]=274;avatarLegsInfo.filename[0]='legs1.gif';
+avatarLegsInfo.id[1]=275;avatarLegsInfo.filename[1]='legs2.gif';
+avatarLegsInfo.id[2]=276;avatarLegsInfo.filename[2]='legs3.gif';
+avatarLegsInfo.id[3]=277;avatarLegsInfo.filename[3]='legs4.gif';
+avatarLegsInfo.id[4]=278;avatarLegsInfo.filename[4]='legs5.gif';
+avatarLegsInfo.id[5]=279;avatarLegsInfo.filename[5]='legs6.gif';
+avatarLegsInfo.id[6]=280;avatarLegsInfo.filename[6]='legs7.gif';
+avatarLegsInfo.id[7]=281;avatarLegsInfo.filename[7]='legs8.gif';
+avatarLegsInfo.id[8]=282;avatarLegsInfo.filename[8]='legs9.gif';
+avatarLegsInfo.id[9]=283;avatarLegsInfo.filename[9]='legs10.gif';
+avatarLegsInfo.id[10]=284;avatarLegsInfo.filename[10]='legs11.gif';
+avatarLegsInfo.id[11]=285;avatarLegsInfo.filename[11]='legs12.gif';
+avatarLegsInfo.id[12]=286;avatarLegsInfo.filename[12]='legs13.gif';
+avatarLegsInfo.id[13]=287;avatarLegsInfo.filename[13]='legs14.gif';
+avatarLegsInfo.id[14]=288;avatarLegsInfo.filename[14]='legs15.gif';
+avatarLegsInfo.id[15]=289;avatarLegsInfo.filename[15]='legs16.gif';
+avatarLegsInfo.id[16]=290;avatarLegsInfo.filename[16]='legs17.gif';
+avatarLegsInfo.id[17]=291;avatarLegsInfo.filename[17]='legs18.gif';
+avatarLegsInfo.id[18]=292;avatarLegsInfo.filename[18]='legs19.gif';
+avatarLegsInfo.id[19]=293;avatarLegsInfo.filename[19]='legs20.gif';
+avatarLegsInfo.id[20]=294;avatarLegsInfo.filename[20]='legs21.gif';
+avatarLegsInfo.id[21]=295;avatarLegsInfo.filename[21]='legs22.gif';
+avatarLegsInfo.id[22]=296;avatarLegsInfo.filename[22]='legs23.gif';
+avatarLegsInfo.id[23]=297;avatarLegsInfo.filename[23]='legs24.gif';
+avatarLegsInfo.id[24]=298;avatarLegsInfo.filename[24]='legs25.gif';
+avatarLegsInfo.id[25]=299;avatarLegsInfo.filename[25]='legs26.gif';
+avatarLegsInfo.id[26]=300;avatarLegsInfo.filename[26]='legs27.gif';
+avatarLegsInfo.id[27]=301;avatarLegsInfo.filename[27]='legs28.gif';
+avatarLegsInfo.id[28]=302;avatarLegsInfo.filename[28]='legs29.gif';
+avatarLegsInfo.id[29]=303;avatarLegsInfo.filename[29]='legs30.gif';
+avatarLegsInfo.id[30]=304;avatarLegsInfo.filename[30]='legs31.gif';
+var maxLegs=avatarLegsInfo.id.length - 1;
+function swopHeads(n){
+currHeads=currHeads+n
+if(currHeads < 0)currHeads=maxHeads
+else if(currHeads > maxHeads) currHeads=0
+document.images['avatarHeads'].src = imageDir + '/Heads/' + avatarHeadsInfo.filename[currHeads]
+SaveCookie('PROah',avatarHeadsInfo.id[currHeads])
+}
+
+function swopTorsos(n){
+currTorsos=currTorsos+n
+if(currTorsos < 0)currTorsos=maxTorsos
+else if(currTorsos > maxTorsos) currTorsos=0
+document.images['avatarTorsos'].src = imageDir + '/Torsos/' + avatarTorsosInfo.filename[currTorsos]
+SaveCookie('PROat',avatarTorsosInfo.id[currTorsos])
+}
+
+function swopLegs(n){
+currLegs=currLegs+n
+if(currLegs < 0)currLegs=maxLegs
+else if(currLegs > maxLegs) currLegs=0
+document.images['avatarLegs'].src = imageDir + '/Legs/' + avatarLegsInfo.filename[currLegs]
+SaveCookie('PROal',avatarLegsInfo.id[currLegs])
+}
+
+
+
+
+
+function imagesFlip(imageID,imageName) {
+	if (document.images){	
+		document.images[imageID].src = eval(imageName + ".src");
+	}
+}
+
+
+arrowprevon = new Image();
+arrowprevoff = new Image();
+
+arrowprevon.src = imageDir + '/btn025x025us1arrowleft.gif';
+arrowprevoff.src = imageDir + '/btn025x025us0arrowleft.gif';
+
+arrownexton = new Image();
+arrownextoff = new Image();
+
+arrownexton.src = imageDir + '/btn025x025us1arrowright.gif';
+arrownextoff.src = imageDir + '/btn025x025us0arrowright.gif';
+
+//-->
+</script>
+
+
+<script language="javascript">
+<!--
+var arrAvatarCookie=new Array('PROah','PROat','PROal');
+for(i=0;i<arrAvatarCookie.length;i++){
+	SaveCookie(arrAvatarCookie[i],'')
+}
+//-->
+</script>
+<!--Avatar table starts-->
+<table border="0" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td align="right" valign="bottom" background="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/2057/images/club/MiniFigs/minifigbkrnd1.gif" width="95" height="95">
+<a href="javascript:swopHeads(-1)" onmouseover="imagesFlip(&quot;arrowprev0&quot;,&quot;arrowprevon&quot;)" onmouseout="imagesFlip(&quot;arrowprev0&quot;,&quot;arrowprevoff&quot;)"><img name="arrowprev0" src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/MiniFigs/btn025x025us0arrowleft.gif" width="25" height="25" border="0" alt="Previous"></a><br>
+<a href="javascript:swopTorsos(-1)" onmouseover="imagesFlip(&quot;arrowprev1&quot;,&quot;arrowprevon&quot;)" onmouseout="imagesFlip(&quot;arrowprev1&quot;,&quot;arrowprevoff&quot;)"><img name="arrowprev1" src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/MiniFigs/btn025x025us0arrowleft.gif" width="25" height="25" border="0" alt="Previous"></a><br>
+<a href="javascript:swopLegs(-1)" onmouseover="imagesFlip(&quot;arrowprev2&quot;,&quot;arrowprevon&quot;)" onmouseout="imagesFlip(&quot;arrowprev2&quot;,&quot;arrowprevoff&quot;)"><img name="arrowprev2" src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/MiniFigs/btn025x025us0arrowleft.gif" width="25" height="25" border="0" alt="Previous"></a><br>
+</td><td background="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/MiniFigs/minifigbkrnd2.gif">&nbsp;</td>
+<td align="middle" valign="bottom" background="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/MiniFigs/minifigbkrnd3.gif" width="95" height="95">
+<img name="avatarHeads" src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/MiniFigs/Heads/head1.gif" width="47" height="42" border="0" alt="Heads"><br>
+<img name="avatarTorsos" src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/MiniFigs/Torsos/torso1.gif" width="47" height="24" border="0" alt="Torsos"><br>
+<img name="avatarLegs" src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/MiniFigs/Legs/legs1.gif" width="47" height="26" border="0" alt="Legs"><br>
+</td><td background="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/MiniFigs/minifigbkrnd2.gif">&nbsp;</td>
+<td align="left" valign="bottom" background="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/MiniFigs/minifigbkrnd4.gif" width="95" height="95">
+<a href="javascript:swopHeads(1)" onmouseover="imagesFlip(&quot;arrownext0&quot;,&quot;arrownexton&quot;)" onmouseout="imagesFlip(&quot;arrownext0&quot;,&quot;arrownextoff&quot;)"><img name="arrownext0" src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/MiniFigs/btn025x025us0arrowright.gif" width="25" height="25" border="0" alt="Next"></a><br>
+<a href="javascript:swopTorsos(1)" onmouseover="imagesFlip(&quot;arrownext1&quot;,&quot;arrownexton&quot;)" onmouseout="imagesFlip(&quot;arrownext1&quot;,&quot;arrownextoff&quot;)"><img name="arrownext1" src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/MiniFigs/btn025x025us0arrowright.gif" width="25" height="25" border="0" alt="Next"></a><br>
+<a href="javascript:swopLegs(1)" onmouseover="imagesFlip(&quot;arrownext2&quot;,&quot;arrownexton&quot;)" onmouseout="imagesFlip(&quot;arrownext2&quot;,&quot;arrownextoff&quot;)"><img name="arrownext2" src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/MiniFigs/btn025x025us0arrowright.gif" width="25" height="25" border="0" alt="Next"></a><br>
+</td></tr>
+</table>
+<!--Avatar table ends-->
+
+										</td>
+									</tr>
+									<tr>
+										<td align="left" valign="top"><img src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/general/und1x1spacer.gif" height="10" border="0" alt=""></td>
+									</tr>
+									<tr>
+										<td align="left" valign="top" colspan="3">
+											<table cellspacing="0" cellpadding="0" border="0">
+											<tr>
+												<td align="left" valign="top"><font class="regtext"><b><form method="post" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="urn:user-namespace-here">
+<font color="FF0000"></font><br><br><input type="hidden" name="mode" value="submit">Nickname:<br><input type="text" name="username" maxlength="30" size="15" value=""><br>Password:<br><input name="password" type="password" maxlength="20" size="15" value=""><br>Confirm Password:<br><input name="confirm" type="password" maxlength="20" size="15" value=""><br><br><hr size="1">Secret Question:<br><select name="question"><option value="0">Select from below.</option>
+						   <option value="1">What is your mother's maiden name?</option>
+						   <option value="2">What was the name of your first pet?</option>
+						   <option value="3">What is your favorite book?</option>
+						   <option value="4">Who was your first boy/girl friend?</option>
+				   </select><br>Answer:<br><input type="text" name="answer" maxlength="30" size="33" value=""><br><br><hr size="1">Date of Birth:<br><select name="month"><option value="1">January</option>
+						<option value="2">February</option>
+						<option value="3">March</option>
+						<option value="4">April</option>
+						<option value="5">May</option>
+						<option value="6">June</option>
+						<option value="7">July</option>
+						<option value="8">August</option>
+						<option value="9">September</option>
+						<option value="10">October</option>
+						<option value="11">November</option>
+						<option value="12">December</option>
+				<br></select><select name="day"><option selected="1">1</option>
+<option>2</option>
+<option>3</option>
+<option>4</option>
+<option>5</option>
+<option>6</option>
+<option>7</option>
+<option>8</option>
+<option>9</option>
+<option>10</option>
+<option>11</option>
+<option>12</option>
+<option>13</option>
+<option>14</option>
+<option>15</option>
+<option>16</option>
+<option>17</option>
+<option>18</option>
+<option>19</option>
+<option>20</option>
+<option>21</option>
+<option>22</option>
+<option>23</option>
+<option>24</option>
+<option>25</option>
+<option>26</option>
+<option>27</option>
+<option>28</option>
+<option>29</option>
+<option>30</option>
+<option>31</option></select><input size="4" maxlength="4" name="year" value=""><br>Country:<br><select name="Country"><option value="">Please Choose...</option><option value="AF">Afghanistan</option><option value="AL">Albania</option><option value="DZ">Algeria</option><option value="AD">Andorra</option><option value="AO">Angola</option><option value="AI">Anguilla</option><option value="AG">Antigua and Barbuda</option><option value="AR">Argentina</option><option value="AM">Armenia</option><option value="AW">Aruba</option><option value="AU">Australia</option><option value="AT">Austria</option><option value="AZ">Azerbaijan</option><option value="BS">Bahamas</option><option value="BH">Bahrain</option><option value="BD">Bangladesh</option><option value="BB">Barbados</option><option value="BY">Belarus</option><option value="BE">Belgium</option><option value="BZ">Belize</option><option value="BJ">Benin</option><option value="BM">Bermuda</option><option value="BT">Bhutan</option><option value="BO">Bolivia</option><option value="BA">Bosnia-Hertzagovina</option><option value="BW">Botswana</option><option value="BR">Brazil</option><option value="VG">British Virgin Islands</option><option value="BN">Brunei Darussalm</option><option value="BG">Bulgaria</option><option value="BF">Burkina Faso</option><option value="MM">Burma (Myanmar)</option><option value="BI">Burundi</option><option value="KH">Cambodia</option><option value="CM">Cameroon</option><option value="CA">Canada</option><option value="CV">Cape Verde</option><option value="KY">Cayman Islands</option><option value="CF">Central African Republic</option><option value="TD">Chad</option><option value="CL">Chile</option><option value="CN">China</option><option value="CX">Christmas Island</option><option value="CC">Cocos Islands</option><option value="CO">Colombia</option><option value="KM">Comoros &amp; Mayotte</option><option value="CG">Congo</option><option value="CK">Cook Islands</option><option value="CR">Costa Rica</option><option value="HR">Croatia</option><option value="CU">Cuba</option><option value="CY">Cyprus</option><option value="CZ">Czech Republic</option><option value="DK">Denmark</option><option value="DJ">Djibouti</option><option value="DM">Dominica</option><option value="DO">Dominican Republic</option><option value="TP">East Timor</option><option value="EC">Ecuador</option><option value="EG">Egypt</option><option value="SV">El Salvador</option><option value="GQ">Equatorial Guinea</option><option value="EE">Estonia</option><option value="ET">Ethiopia</option><option value="FK">Falkland Islands</option><option value="FO">Faroe Islands</option><option value="FJ">Fiji Islands</option><option value="FI">Finland</option><option value="FR">France</option><option value="GF">French Guiana</option><option value="PF">French Polynesia</option><option value="GA">Gabonese Republic</option><option value="GM">Gambia</option><option value="GE">Georgia</option><option value="DE">Germany</option><option value="GH">Ghana</option><option value="GI">Gibraltar</option><option value="GR">Greece</option><option value="GL">Greenland</option><option value="GD">Grenada/Carricou</option><option value="GP">Guadeloupe</option><option value="GU">Guam</option><option value="GT">Guatemala</option><option value="GN">Guinea</option><option value="GW">Guinea-Bissau</option><option value="GY">Guyana</option><option value="HT">Haiti</option><option value="HN">Honduras</option><option value="HK">Hong Kong</option><option value="HU">Hungary</option><option value="IS">Iceland</option><option value="IN">India</option><option value="ID">Indonesia</option><option value="IR">Iran</option><option value="IQ">Iraq</option><option value="IE">Ireland</option><option value="IL">Israel</option><option value="IT">Italy</option><option value="CI">Ivory Coast</option><option value="JM">Jamaica</option><option value="JP">Japan</option><option value="JO">Jordan</option><option value="KZ">Kazakstan</option><option value="KE">Kenya</option><option value="KI">Kiribati, Gilbert Islands</option><option value="KW">Kuwait</option><option value="KG">Kyrgyz Republic</option><option value="LA">Laos</option><option value="LV">Latvia</option><option value="LB">Lebanon</option><option value="LS">Lesotho</option><option value="LR">Liberia</option><option value="LY">Libya</option><option value="LI">Liechtenstein</option><option value="LT">Lithuania</option><option value="LU">Luxembourg</option><option value="MO">Macao</option><option value="MK">Macedonia</option><option value="MG">Madagascar</option><option value="MW">Malawi</option><option value="MY">Malaysia</option><option value="MV">Maldives</option><option value="ML">Mali</option><option value="MT">Malta</option><option value="MQ">Martinique</option><option value="MR">Mauritania</option><option value="MU">Mauritius</option><option value="MX">Mexico</option><option value="FM">Micronesia</option><option value="MD">Moldova</option><option value="MC">Monaco</option><option value="MN">Mongolia</option><option value="MS">Montserrat</option><option value="MA">Morocco</option><option value="MZ">Mozambique</option><option value="MP">N. Mariana Islands</option><option value="NA">Namibia</option><option value="NR">Nauru</option><option value="NP">Nepal</option><option value="NL">Netherlands</option><option value="AN">Netherlands Antilles</option><option value="NC">New Caledonia</option><option value="NZ">New Zealand</option><option value="NI">Nicaragua</option><option value="NE">Niger</option><option value="NG">Nigeria</option><option value="NU">Niue Island</option><option value="KP">North Korea</option><option value="ND">Northern Ireland</option><option value="NO">Norway</option><option value="OM">Oman</option><option value="PK">Pakistan</option><option value="PW">Palau</option><option value="PA">Panama</option><option value="PG">Papua New Guinea</option><option value="PY">Paraguay</option><option value="PE">Peru</option><option value="PH">Philippines</option><option value="PN">Pitcairn Islands</option><option value="PL">Poland</option><option value="PT">Portugal</option><option value="PR">Puerto Rico</option><option value="QA">Qatar</option><option value="RE">Reunion (France)</option><option value="RO">Romania</option><option value="RU">Russia</option><option value="RW">Rwanda</option><option value="SM">San Marino</option><option value="ST">Sao Tome &amp; Principe</option><option value="SA">Saudi Arabia</option><option value="SN">Senegal</option><option value="YU">Serbia and Montenegro</option><option value="SC">Seychelles</option><option value="SL">Sierra Leone</option><option value="SG">Singapore</option><option value="SK">Slovakia</option><option value="SI">Slovenia</option><option value="SB">Solomon Islands</option><option value="SO">Somalia</option><option value="ZA">South Africa</option><option value="KR">South Korea</option><option value="ES">Spain</option><option value="LK">Sri Lanka</option><option value="SH">St Helena</option><option value="KN">St Kitts and Nevis</option><option value="LC">St Lucia</option><option value="PM">St Pierre &amp; Miquelon</option><option value="VC">St Vincent/Grenadines</option><option value="SD">Sudan</option><option value="SR">Suriname</option><option value="SZ">Swaziland</option><option value="SE">Sweden</option><option value="CH">Switzerland</option><option value="SY">Syria</option><option value="TW">Taiwan</option><option value="TJ">Tajikistan</option><option value="TZ">Tanzania</option><option value="TH">Thailand</option><option value="TG">Togolese Republic</option><option value="TO">Tonga</option><option value="TT">Trinidad and Tobago</option><option value="TN">Tunisia</option><option value="TR">Turkey</option><option value="TM">Turkmenistan</option><option value="TC">Turks and Caicos</option><option value="TV">Tuvalu, Ellice Islands</option><option value="UG">Uganda</option><option value="UA">Ukraine</option><option value="AE">United Arab Emirates</option><option value="UK">United Kingdom</option><option value="US">United States</option><option value="UY">Uruguay</option><option value="UZ">Uzbekistan</option><option value="VU">Vanuatu</option><option value="VA">Vatican City</option><option value="VE">Venezuela</option><option value="VN">Vietnam</option><option value="WS">Western Samoa</option><option value="YE">Yemen</option><option value="ZR">Zaire</option><option value="ZM">Zambia</option><option value="ZW">Zimbabwe</option></select><br>Postal Code:<br><input type="text" name="postalcode" maxlength="13" size="15" value=""><br>Gender: 
+					<input type="radio" name="gender" value="M"> Male 
+						   <input type="radio" name="gender" value="F"> Female
+					<br><br><hr size="1"><br><input type="image" border="0" src="/web/20060321071323im_/https://club.lego.com/assets/eng/images/club/general/btn073x015us0submit.gif" alt="Submit"></form>
+
+</b></font></td>
+											</tr>
+											<tr>
+												<td align="left" valign="top"><font class="regtext">Having trouble creating a Nickname? <a href="javascript: newWindow('NicknameTips.asp?locale=2057');">CLICK HERE</a> for some tips!</font></td>
+											</tr>
+											<tr>
+												<td align="left" valign="top"><img src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/general/und1x1spacer.gif" height="20" border="0" alt=""></td>
+											</tr>
+											</table>
+										</td>
+									</tr>
+									</table>
+								</td>
+								<td><img src="https://web.archive.org/web/20060321071323im_/https://secure.instacontent.net/lego/images/club/general/und1x1spacer.gif" width="20" border="0" alt=""></td>
+							</tr>	
+							</table>
+						</td>
+					</tr>	
+					</table>
+				</td>
+			</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td width="770" height="20" colspan="9">
+			<p class="copyrighttext"><span style="color:#336699">
+	<br/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&copy;&nbsp; 2005 The LEGO Group. All rights reserved. Use of this site signifies your agreement to the terms of use. <a href="https://web.archive.org/web/20060321071323/http://www.lego.com/eng/info/legal.asp" class="legalnotice">Legal Notice</a>
+	</span></p><br>
+		</td>
+	</tr>
+	</table>
+
+
+	</div>
+	<!--end contentConteiner-->
+	<!--footerContainer-->
+	<div id="footerContainer">
+			
+			<div id="f-Container">
+				<ul id="f">
+					<li id="f-links">
+						<ul>
+							<li>
+								<a href="https://web.archive.org/web/20060321071323/http://www.lego.com/eng/service/">Customer Service</a>
+								<a href="https://web.archive.org/web/20060321071323/http://www.lego.com/eng/info/">About Us</a>
+								<a href="https://web.archive.org/web/20060321071323/http://www.lego.com/eng/education/#">Educators</a>
+								<a href="https://web.archive.org/web/20060321071323/http://parents.lego.com/">Parents</a>
+								<a href="https://web.archive.org/web/20060321071323/http://www.lego.com/eng/Legoland/">LEGOLAND</a>
+								<a href="https://web.archive.org/web/20060321071323/http://www.lego.com/eng/siteindex/default.asp">Site Index</a>
+								<span id="legalNotice"><a href="https://web.archive.org/web/20060321071323/http://www.lego.com/eng/info/legal.asp">Legal Notice</a></span>
+							</li>
+						</ul>
+					</li>
+					<li id="f-logo"><a href="https://web.archive.org/web/20060321071323/http://www.lego.com/eng/"></a></li>
+					<li id="f-text">
+						<p>&#169; 2006 The LEGO Group. All rights reserved. Use of this site signifies your agreement to the terms of use.</p>
+					</li>
+				</ul>
+			</div>
+		
+	</div>
+	<!--end footerContainer-->
+	
+	
+	
+	
+	
+	
+	</div>
+	<!--end pageContainer-->
+	
+<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
+<!--COPYRIGHT 1997-2004 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
+<script language="javascript">
+var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
+var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg-legonewyorkinc.hitbox.com";
+
+//BEGIN EDITABLE SECTION
+//CONFIGURATION VARIABLES
+hbx.acct="DM530327F3EW;DM530410DDSE";//ACCOUNT NUMBER(S)
+hbx.pn="PUT+PAGE+NAME+HERE";//PAGE NAME(S)
+hbx.mlc="/content;/eng/content";//MULTI-LEVEL CONTENT CATEGORY
+hbx.pndef="title";//DEFAULT PAGE NAME
+hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
+
+//OPTIONAL PAGE VARIABLES
+//ACTION SETTINGS
+hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
+hbx.lt="none";//LINK TRACKING
+hbx.dft="n";//DOWNLOAD FILE NAMING
+hbx.dlf="n";//DOWNLOAD FILTER
+hbx.elf="n";//EXIT LINK FILTER
+
+//SEGMENTS AND FUNNELS
+hbx.seg="1,-12,13,14;*";//VISITOR SEGMENTATION
+hbx.fnl="";//FUNNELS
+
+//CAMPAIGNS
+hbx.cmp="";//CAMPAIGN ID
+hbx.cmpn="CMP";//CAMPAIGN ID IN QUERY
+hbx.dcmp="";//DYNAMIC CAMPAIGN ID
+hbx.dcmpn="DCMP";//DYNAMIC CAMPAIGN ID IN QUERY
+hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
+hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
+hbx.hra="";//RESPONSE ATTRIBUTE
+hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
+hbx.hqsp="HQS";//RESPONSE ATTRIBUTE IN QUERY
+hbx.hlt="";//LEAD TRACKING
+hbx.hla="";//LEAD ATTRIBUTE
+hbx.gp="";//CAMPAIGN GOAL
+hbx.gpn="";//CAMPAIGN GOAL IN QUERY
+hbx.hcn="";//CONVERSION ATTRIBUTE
+hbx.hcv="";//CONVERSION VALUE
+hbx.cp="null";//LEGACY CAMPAIGN
+hbx.cpd="lego.com";//CAMPAIGN DOMAIN
+
+//CUSTOM VARIABLES
+hbx.ci="";//CUSTOMER ID
+hbx.hc1="";//CUSTOM 1
+hbx.hc2="";//CUSTOM 2
+hbx.hc3="";//CUSTOM 3
+hbx.hc4="";//CUSTOM 4
+hbx.hrf="";//CUSTOM REFERRER
+hbx.pec="";//ERROR CODES
+hbx.ptc=""; // popup disabler
+
+//INSERT CUSTOM EVENTS
+
+
+//END EDITABLE SECTION
+
+//REQUIRED SECTION. 
+</script><script language="javascript1.1" defer src="/web/20060321071323js_/https://club.lego.com/include/hitbox/hbx.js"></script>
+<!--END WEBSIDESTORY CODE-->
+
+	</body>
+	</html>

@@ -1,0 +1,169 @@
+		/*--START global footer--*/
+
+
+				#gf-globalFooterContainer {
+				position: relative;
+				padding: 0px 0px 0px 0px;
+				margin: 0px 0px 0px 0px;
+				width: 770px;
+				display: block;
+				}
+				
+				#gf-globalFooter {
+				padding: 10px 0px 0px 0px;
+				margin: 0px 0px 0px 0px;
+				width: 770px;
+				display: block;
+				float: left;
+				}
+				
+				#gf-links {
+				padding: 5px 0px 0px 0px;
+				margin: 0px 0px 0px 0px;
+				width: 404px;
+				height: 25px;
+				display: block;
+				float: left;
+				}
+			
+				#gf-links ul {
+				margin: 0px 0px 0px 0px;
+				padding: 0px 0px 0px 17px;
+				list-style: none;	
+				}
+				
+				#gf-links ul li{
+				margin: 0px 0px 0px 0px;
+				padding: 0px 0px 0px 0px;
+				}
+				
+				#gf-links ul li a	{
+				margin: 0px 0px 0px 0px;
+				padding: 0px 0px 0px 16px;
+				font: 10px Verdana, Tahoma, Arial, sans-serif;
+				color: #474D50;
+				font-weight: bold;
+				text-decoration: none;
+				background-image: url(https://web.archive.org/web/20060311055851im_/http://cache.lego.com/eng/images/globalFooter/linksArrowOff.gif);
+				background-repeat: no-repeat;
+				}
+				
+				#gf-links ul li a:hover  {
+				margin: 0px 0px 0px 0px;
+				padding: 0px 0px 0px 16px;
+				font: 10px Verdana, Tahoma, Arial, sans-serif;
+				color: #F16062;
+				font-weight: bold;
+				text-decoration: none;
+				background-image: url(https://web.archive.org/web/20060311055851im_/http://cache.lego.com/eng/images/globalFooter/linksArrowOn.gif);
+				background-repeat: no-repeat;
+				}
+			
+				
+				#gf-searchTextField {
+				padding: 1px 0px 0px 0px;	
+				margin: 0px 0px 0px 0px;
+				width: 161px;
+				height: 25px;
+				display: block;
+				float: left;
+				}
+				
+				#gf-search {
+				padding: 0px 0px 0px 0px;
+				margin: 0px 0px 0px 0px;
+				}
+				
+				#gf-search p{
+				padding: 0px 0px 0px 0px;
+				margin: 0px 0px 0px 0px;
+				}
+				
+				#gf-search input{
+				padding: 0px 0px 0px 0px;	
+				margin: 0px 0px 0px 5px;
+				font: 10px Verdana, Tahoma, Arial, sans-serif;
+				height: 16px;
+				width: 100px;
+				}
+				
+				#gf-searchImg img{
+				padding: 0px 0px 0px 5px;
+				margin: 0px 0px 0px 0px;
+				height: 25px;
+				width: 38px;
+				}
+				
+				#gf-searchImg p{
+				padding: 0px 0px 0px 0px;
+				margin: 0px 0px 0px 0px;
+				}
+				
+				#gf-privacy {
+				padding: 5px 0px 0px 0px;	
+				margin: 0px 0px 0px 0px;
+				width: 174px;
+				height: 25px;
+				display: block;
+				float: left;
+				}
+				
+				#gf-privacy ul {
+				margin: 0px 0px 0px 0px;
+				padding: 0px 0px 0px 12px;
+				list-style: none;
+				}
+				
+				#gf-privacy ul li {
+				margin: 0px 0px 0px 0px;
+				padding: 0px 0px 0px 0px;
+				}
+				
+				#gf-privacy ul li a  {
+				margin: 0px 0px 0px 0px;
+				padding: 0px 0px 0px 16px;
+				font: 10px Verdana, Tahoma, Arial, sans-serif;
+				color: #288EAF;
+				font-weight: bold;
+				text-decoration: none;
+				background-image: url(https://web.archive.org/web/20060311055851im_/http://cache.lego.com/eng/images/globalFooter/privacyArrowOff.gif);
+				background-repeat: no-repeat;
+				}
+				
+				#gf-privacy ul li a:hover {
+				margin: 0px 0px 0px 0px;
+				padding: 0px 0px 0px 16px;
+				font: 10px Verdana, Tahoma, Arial, sans-serif;
+				color: #F16062;
+				font-weight: bold;
+				text-decoration: none;
+				background-image: url(https://web.archive.org/web/20060311055851im_/http://cache.lego.com/eng/images/globalFooter/privacyArrowOn.gif);
+				background-repeat: no-repeat;
+				}	
+				
+				#gf-footertext {
+				padding: 10px 0px 0px 0px;	
+				margin: 0px 0px 0px 0px;
+				font: 10px Verdana, Tahoma, Arial, sans-serif;
+				clear: all;
+				float: left;
+				display: block;
+				color: #888C8E;
+				font-size: 10px;
+				width: 770px;
+				}	
+				
+				#gf-footertext p{
+				text-align: center;
+				}	
+		
+		
+		/*--END global footer--*/
+/*
+     FILE ARCHIVED ON 05:58:51 Mar 11, 2006 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:13:01 Oct 01, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
