@@ -593,7 +593,7 @@ function swopLegs(n){
 currLegs=currLegs+n
 if(currLegs < 0)currLegs=maxLegs
 else if(currLegs > maxLegs) currLegs=0
-document.images['avatarLegs'].src = imageDir + 'legs/' + avatarLegsInfo.filename[currLegs]
+document.images['avatarLegs'].src = imageDir + '/legs/' + avatarLegsInfo.filename[currLegs]
 SaveCookie('PROal',avatarLegsInfo.id[currLegs])
 }
 
