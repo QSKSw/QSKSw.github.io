@@ -1,0 +1,295 @@
+		/*--START global footer--*/
+	
+		#gf-globalFooterContainer {
+			display: block;
+			padding: 0px;
+			margin: 0px;
+			width: 770px;
+			height: 25px;
+			clear: both;
+			float: left;
+		}
+				
+		#gf-globalFooter {
+			padding: 10px 0px 0px 0px;	
+			margin: 0px 0px 0px 0px;
+			width: 770px;
+			height: 15px;
+			display: block;
+			float: left;
+			list-style: none;
+			border: 0px solid green;
+		}
+				
+		#gf-links {
+			padding: 3px 0px 0px 3px;	
+			margin: 0px 2px 0px 0px;
+			width: 401px;
+			height: 25px;
+			display: block;
+			float: left;
+			background-image: url(https://web.archive.org/web/20090721081619im_/http://cache.lego.com/eng/images/globalFooter/img3x25footerbg.gif);
+			background-repeat: repeat-x;
+			border: 0px solid red;
+		}
+			
+		#gf-links ul {
+			margin: 0px 0px 0px 0px;
+			padding: 0px 0px 0px 17px;
+			list-style: none;	
+			border: 0px solid black;	
+		}
+				
+		#gf-links ul li a	{
+			margin: 0px 0px 0px 0px;
+			padding: 0px 0px 0px 16px;
+			font: 10px Verdana, Tahoma, Arial, sans-serif;
+			color: #474D50;
+			font-weight: bold;
+			text-decoration: none;
+			background-image: url(https://web.archive.org/web/20090721081619im_/http://cache.lego.com/eng/images/globalFooter/linksArrowOff.gif);
+			background-repeat: no-repeat;
+			border: 0px solid black;	
+		}
+				
+		#gf-links ul li a:hover  {
+			margin: 0px 0px 0px 0px;
+			padding: 0px 0px 0px 16px;
+			font: 10px Verdana, Tahoma, Arial, sans-serif;
+			color: #F16062;
+			font-weight: bold;
+			text-decoration: none;
+			background-image: url(https://web.archive.org/web/20090721081619im_/http://cache.lego.com/eng/images/globalFooter/linksArrowOn.gif);
+			background-repeat: no-repeat;
+		}
+				
+		#gf-search {
+			padding: 0px 0px 0px 0px;	
+			margin: 0px 2px 0px 0px;
+			width: 160px;
+			height: 25px;
+			display: block;
+			float: left;
+			background-image: url(https://web.archive.org/web/20090721081619im_/http://cache.lego.com/eng/images/globalFooter/img3x25footerbg.gif);
+			background-repeat: repeat-x;
+		}
+		
+		#gf-search form{
+			padding: 0px 0px 0px 0px;
+			margin: 0px 0px 0px 0px;	
+		}
+				
+		#gf-search p{
+			padding: 3px 2px 0px 2px;	
+			margin: 0px 0px 0px 0px;
+		}
+				
+		#gf-search input{
+			padding: 0px 0px 0px 0px;	
+			margin: 0px 0px 5px 5px;
+			height: 12px;
+			width: 90px;
+			font-family: Arial;
+			font-size: 10px;
+			font-weight: normal;
+		}
+				
+		#gf-search img{
+			padding: 0px 0px 0px 10px;	
+			margin: 0px 0px 0px 0px;
+		}
+				
+		#gf-privacy {
+			padding: 2px 0px 0px 0px;	
+			margin: 0px 0px 0px 0px;
+			width: 175px;
+			height: 25px;
+			display: block;
+			float: left;
+			background-image: url(https://web.archive.org/web/20090721081619im_/http://cache.lego.com/eng/images/globalFooter/img3x25footerbg.gif);
+			background-repeat: repeat-x;
+			border: 0px solid red;
+		}
+				
+		#gf-privacy ul {
+			margin: 0px 0px 0px 0px;
+			padding: 0px 0px 0px 12px;
+			list-style: none;	
+			border: 0px solid black;	
+		}
+				
+		#gf-privacy ul li a  {
+			margin: 0px 0px 0px 0px;
+			padding: 0px 0px 0px 16px;
+			font: 10px Verdana, Tahoma, Arial, sans-serif;
+			color: #288EAF;
+			font-weight: bold;
+			text-decoration: none;
+			background-image: url(https://web.archive.org/web/20090721081619im_/http://cache.lego.com/eng/images/globalFooter/privacyArrowOff.gif);
+			background-repeat: no-repeat;
+			border: 0px solid black;	
+		}
+				
+		#gf-privacy ul li a:hover {
+			margin: 0px 0px 0px 0px;
+			padding: 0px 0px 0px 16px;
+			font: 10px Verdana, Tahoma, Arial, sans-serif;
+			color: #F16062;
+			font-weight: bold;
+			text-decoration: none;
+			background-image: url(https://web.archive.org/web/20090721081619im_/http://cache.lego.com/eng/images/globalFooter/privacyArrowOn.gif);
+			background-repeat: no-repeat;
+		}
+				
+				
+		#gf-logo {
+			padding: 0px 0px 0px 0px;	
+			margin: 0px 0px 0px 2px;
+			width: 25px;
+			height: 25px;
+			display: block;
+			float: left;
+			background-image: url(https://web.archive.org/web/20090721081619im_/http://cache.lego.com/eng/images/globalFooter/img25x25legologo.gif);
+			background-repeat: repeat-x;
+		}
+		
+			
+		#gf-logo a {
+			padding: 0px 0px 0px 0px;	
+			margin: 0px 0px 0px 0px;
+			width: 25px;
+			height: 25px;
+			display: block;
+			float: left;
+			background-image: url(https://web.archive.org/web/20090721081619im_/http://cache.lego.com/eng/images/globalFooter/img25x25legologo.gif);
+			background-repeat: repeat-x;
+		}
+		
+		#gf-logo a:hover{
+			padding: 0px 0px 0px 0px;	
+			margin: 0px 0px 0px 0px;
+			width: 25px;
+			height: 25px;
+			display: block;
+			float: left;
+			background-image: url(https://web.archive.org/web/20090721081619im_/http://cache.lego.com/eng/images/globalFooter/img25x25legologo.gif);
+			background-repeat: repeat-x;
+		}
+
+			
+					
+		#gf-footertext {
+			padding: 0px 0px 0px 0px;	
+			margin: 0px 0px 0px 0px;
+			clear: both;
+			float: left;
+			display: block;
+			color: #888C8E;
+			font-size: 10px;
+			width: 770px;
+		}	
+				
+		#gf-footertext p{
+			text-align: center;
+			font: 10px/12px Verdana, Tahoma, Arial, sans-serif;
+			padding: 5px 0px 0px 0px;
+			margin: 0px 0px 0px 0px;
+		}
+		
+		
+#f-Container {
+position: relative;
+margin-top: 5px;
+}
+
+#f {
+padding: 0px;
+margin: 0px;
+width: 770px;
+height: 26px;
+float: left;
+display: inline;
+list-style: none;
+line-height: normal;
+font-size: 14px;
+}
+
+#f-links {
+padding: 3px 0px 0px 4px;
+margin: 0px 2px 0px 0px;
+width: 736px;
+height: 26px;
+float: left;
+display: inline;
+background: url(https://web.archive.org/web/20090721081619im_/http://cache.lego.com/eng/images/globalfooter/001x026_globalfooter_bg.gif) repeat-x;
+}
+
+#f-links ul {
+margin: 0px;
+padding: 0px 0px 0px 17px;
+list-style: none;
+}
+
+#f-links ul li a {
+margin: 0px;
+padding: 0px 15px 0px 15px;
+font: bold 10px Verdana, Tahoma, Arial, sans-serif;
+color: #474D50;
+text-decoration: none;
+background: url(https://web.archive.org/web/20090721081619im_/http://cache.lego.com/eng/images/globalfooter/010x010_stud.gif) no-repeat;
+}
+
+#f-links ul li a:hover {
+margin: 0px;
+padding: 0px 15px 0px 15px;
+font: bold 10px Verdana, Tahoma, Arial, sans-serif;
+color: #F16062;
+text-decoration: none;
+}
+
+#f-links span#legalNotice a{
+    color: #228DC5;
+}
+
+#f-logo {
+padding: 0px;
+margin: 0px 0px 0px 2px;
+width: 25px;
+height: 25px;
+float: left;
+display: inline;
+background: url(https://web.archive.org/web/20090721081619im_/http://cache.lego.com/eng/images/globalfooter/img25x25legologo.gif) repeat-x;
+}
+
+#f-logo a {
+display: block;
+width: 25px;
+height: 25px;
+}
+    
+#f-text {
+padding: 0px;
+margin: 0px;
+clear: both;
+float: left;
+display: inline;
+color: #888C8E;
+font-size: 10px;
+width: 770px;
+}
+
+#f-text p { 
+text-align: center ;
+font: 10px/12px Verdana, Tahoma, Arial, sans-serif;
+margin: 0px;
+padding: 0px 0px 5px 0px;
+}
+		/*--END global footer--*/
+/*
+     FILE ARCHIVED ON 08:16:19 Jul 21, 2009 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:43:02 Oct 17, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/

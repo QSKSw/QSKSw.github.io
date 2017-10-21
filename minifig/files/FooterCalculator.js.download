@@ -1,0 +1,35 @@
+/* FOOTERCALCULATOR V.1.0.1 */
+$(document).ready(function(){
+    var f = $('#GFwrapper');
+    var fh = null;
+    var c = null;
+    if(f.length) {
+        GetHeights();
+        CalculateFooter();       
+        $(window).bind('resize', CalculateFooter);
+        $(window).load(function() { // TO ENSURE THE CORRECT CALCULATION OF HEIGHT WE CALCULATE IT AGAIN WHEN THE PAGE IS LOADED
+            GetHeights();
+            CalculateFooter();
+        })
+    }
+    function CalculateFooter() {
+        if(c < ($(window).height()- fh))
+            f.css({'position': 'absolute'});
+        else
+            f.css({'position': 'relative'}); 
+        //DEBUGGING   
+        //if (window.console && window.console.log){console.log('content: ' + c + ' < window: ' + ($(window).height()- fh) + ' f: ' + f.outerHeight(true) + ' h: ' + $('#GHwrapper').outerHeight(true));}
+    }
+    function GetHeights() {
+        fh = f.outerHeight(true) + $('#GHwrapper').outerHeight(true) + 10;
+        c = $('#siteContainer').length ? $('#siteContainer').outerHeight(true) : $('#lp-container').outerHeight(true);
+    }
+});   
+/*
+     FILE ARCHIVED ON 09:10:25 Jun 30, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:41:55 Oct 17, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/

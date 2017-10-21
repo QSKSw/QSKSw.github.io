@@ -1,0 +1,44 @@
+		body{
+			margin:0 auto;
+			padding:0;
+			text-align: center;
+			min-width: 772px;
+		}
+	
+		#lp-container{
+			position: relative;
+			margin: 0 auto;
+			padding: 0;	
+			text-align: left;
+			width: 772px;
+		}
+		
+		#outer {
+			position:relative;
+			width:100%;
+			height:100%;
+			margin: 0 auto;
+			text-align:center;
+		}
+
+/*********************/
+/***Promotion survey*/
+/*********************/
+
+#popup { width: 410px; height: 300px; margin: 15px 0 0 0; position: relative; text-align: center; font: normal 11px/1.25 verdana, lucida, arial, helvetica, sans-serif; }
+.headerTxt { padding: 39px 0 0 0; display: block; font: bold 15px/1.25 verdana, lucida, arial, helvetica, sans-serif; color: #1cb1c9; }
+.subheaderTxt { margin: 10px 0 0 0; display: block; font: bold 11px/1.25 verdana, lucida, arial, helvetica, sans-serif; color: #636363; }
+#popup ul { width: 121px; height: 200px; position: absolute; top: 105px; right: 140px; list-style: none; }
+#popup a { width: 110px; height: 64px; margin: 0 auto; display: block; color: #fff; text-decoration: none; }
+.yes, .no { margin: 0 0 7px 0; }
+.no { background: url(/web/20090721082117im_/http://cache.lego.com/css/img/btn121x64_No.jpg); }
+.yes span, .no span { padding: 5px 0 0 0; display: block; font-size: 120%; font-weight: bold; }
+#popup img { position: absolute; top: 133px; left: 40px; }		
+/*
+     FILE ARCHIVED ON 08:21:17 Jul 21, 2009 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:43:02 Oct 17, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
