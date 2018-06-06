@@ -128,3 +128,19 @@ u {
     text-decoration: inherit;
     border-bottom: 1px solid #47B2FF;
 }
+
+a.footer {
+    color: white;
+}
+
+div.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+	padding-top:7px;
+	padding-bottom:7px;
+    color: white;
+    text-align: center;
+}
