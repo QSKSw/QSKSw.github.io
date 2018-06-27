@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         Incase of Bionicle Wiki, Break Glass
 // @namespace    bionicle.wikia.com/*
-// @version      0.2
+// @version      0.3
 // @author       QSKSw
 // @match        http://bionicle.wikia.com/*
+// @match        https://bionicle.wikia.com/*
 // @grant        none
 // @include      bionicle.wikia.com*
 // @exclude
