@@ -1,0 +1,43 @@
+<link href="../qsksw3.ico" rel="shortcut icon" type="image/x-icon" />
+
+<head>
+<title>Meow</title>
+<link rel="stylesheet" href="../main.css" type="text/css"/>
+</head>
+
+<script type="text/javascript">
+  function autoClick () {
+    document.forms["FormType"].submit();
+   }
+ window.onload = autoClick;
+</script>
+
+<script type="text/javascript">
+
+    document.getElementById('hasJavaScript').style.display = 'block';
+    document.getElementById('noscript').style.display = 'none';
+
+</script>
+
+<br><br><br>
+
+<div id="hasJavaScript" style="display: none">
+
+<form id="FormType" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_donations">
+<input type="hidden" name="business" value="joeyvineyard@yahoo.com">
+<input type="hidden" name="lc" value="US">
+<input type="hidden" name="item_name" value="Donate to QSKSw and she will make you a pixel art commission and comp you a free copy of her first game when it's finished. <3">
+<input type="hidden" name="item_number" value="QSKSw">
+<input type="hidden" name="no_note" value="0">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="bn" value="PP-DonationsBF:btn_donateCC_LG.gif:NonHostedGuest">
+<input type="hidden" name="return" value=”http://qsksw.webs.com/”>
+<input type="image" width="163" height="23" src="../loading.png" border="0" name="submit" title="Paypal Donate" alt="PayPal Donate">
+</form>
+
+</div>
+
+<noscript>
+[ <a title="Paypal Donate" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=joeyvineyard%40yahoo%2ecom&lc=US&item_name=Donate%20to%20QSKSw%20and%20she%20will%20make%20you%20a%20pixel%20art%20commission%20and%20comp%20you%20a%20free%20copy%20of%20her%20first%20game%20when%20its%20finished%2e%20%3C3&item_number=QSKSw&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest&return=qsksw%2ewebs%2ecom">Paypal Donate</a> ]
+</noscript>

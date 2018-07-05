@@ -1,0 +1,28 @@
+ a
+ {
+    color: #FFFFFF;
+    text-decoration: underline;
+ }
+
+ a:active, a:focus, a:hover, a:visited
+ {
+    color: #0000FF;
+    text-decoration: none;
+ }
+
+ body
+ {
+    background:#F58FCF;
+    color: #000000;
+    float:none;
+    text-align:none;
+    margin-left:20px;
+    margin-right:20px;
+ }
+
+ img
+ {
+    margin-left:5px;
+    margin-right:5px;
+    float:right;
+ }

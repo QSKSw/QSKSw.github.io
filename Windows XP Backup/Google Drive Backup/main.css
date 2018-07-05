@@ -1,0 +1,63 @@
+ a
+ {
+    color: #00A3FF;
+    text-decoration: underline;
+ }
+
+ a:active, a:focus, a:hover, a:visited
+ {
+    color: #FF7FED;
+    text-decoration: none;
+ }
+
+ body
+ {
+    background:#000000;
+    color: #FFFFFF;
+    float:center;
+    margin-left:0px;
+    padding:5px;
+    text-align:center;
+ }
+
+ p
+ {
+    margin-left:15px;
+    float:none;
+    text-align:left;
+ }
+
+ p.ascii
+ {
+    margin-left:15px;
+    margin-right:200px;
+    float:right;
+    text-align:right;
+ }
+
+ h1
+ {
+    margin-left:0px;
+    float:center;
+    text-align:center;
+ }
+
+ table, td, th, tr
+ {
+    border: 1px solid white;
+    padding:10px;
+    text-align:center;
+ }
+
+ table.test, td.test, th.test, tr.test
+ {
+    border: 1px solid white;
+    padding:10px;
+    text-align:center;
+ }
+
+ .wrap
+ {
+    width:100%;
+    margin:0 auto;
+ }
