@@ -6,6 +6,11 @@ body {
 }
 
 a:link {
+    color:#FFF;
+    text-decoration: none;
+}
+
+a.footer:link {
     color:#47B2FF;
     text-decoration: none;
     border-bottom: 1px solid #FFF;
@@ -132,14 +137,20 @@ a.footer {
     color: white;
 }
 
-div.footer {
-    position: fixed;
+footer, div.footer {
     left: 0;
-    bottom: 0;
+    bottom: 5;
     width: 100%;
     background-color: black;
 	padding-top:7px;
 	padding-bottom:7px;
     color: white;
     text-align: center;
+}
+
+s {
+	
+text-decoration: line-through;
+text-decoration-color: red;
+	
 }
