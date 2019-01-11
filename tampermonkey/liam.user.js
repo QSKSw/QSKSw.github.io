@@ -4,7 +4,7 @@
 // @description Liam is Google
 // @namespace   http://*.google.com/*
 // @namespace   https://*.google.com/*
-// @version     0.3
+// @version     0.4
 // @include     http://*.google.com/*
 // @include     https://*.google.com/*
 // ==/UserScript==
