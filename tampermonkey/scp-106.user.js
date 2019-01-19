@@ -4,7 +4,7 @@
 // @author         QSKSw
 // @version        0.1
 
-//@namespace       http://QSKSw.github.io/tampermonkey/scp106.user.js
+// @namespace       http://QSKSw.github.io/tampermonkey/scp106.user.js
 
 // @match          htt*://www.scp-wiki.net/scp-106*
 // @match          htt*://scp-wiki.wikidot.com/scp-106*
