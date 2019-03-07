@@ -1,0 +1,234 @@
+/*  function ToggleRateMenu(evt) {
+  var isNav = (navigator.appName == "Netscape");
+	alert (isNav);
+	evt = (evt) ? evt : ((window.event)?event:null);
+	var pos = evt.y;
+	// Which button was pressed?
+	// Get the max y coordinate for the bottom button
+    rateMenu = document.getElementById('RateMenu');
+    var rateButtons = document.getElementsByName('RateButton');
+	var topY = getposOffset(rateButtons[0], "top");
+    if (pos >= topY+15) { // Bottom button
+		rateButton = rateButtons[1]; 
+		rateMenu.style.left = getposOffset(rateButton, "left");
+		rateMenu.style.top = getposOffset(rateButton, "top");
+
+		if (rateMenu.style.visibility == "hidden") {
+			rateMenu.style.visibility = "visible";
+			rateMenu.style.display = 'block';
+		} else {
+			rateMenu.style.visibility = "hidden";
+			rateMenu.style.display = 'none';
+		}
+    }
+    else // Top button
+    {	
+		rateButton = rateButtons[0]; 
+		rateMenu.style.left =  getposOffset(rateButton, "left"); //rateButton.offsetLeft + 1;
+		rateMenu.style.top = getposOffset(rateButton, "top") ;
+		
+		if (rateMenu.style.visibility == "hidden") {
+			rateMenu.style.visibility = "visible";
+			rateMenu.style.display = 'block';
+		} else {
+			rateMenu.style.visibility = "hidden";
+			rateMenu.style.display = 'none';
+		}
+    }
+  }
+  
+  function getposOffset(what, offsettype){
+	var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
+	var parentEl=what.offsetParent;
+	while (parentEl!=null){
+		totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+		parentEl=parentEl.offsetParent;
+	}
+	return totaloffset;
+}
+ 
+  function ToggleSearchMenu() {
+    searchMenu = document.getElementById('SearchMenu');
+    searchButton = document.getElementById('SearchButton');
+
+    searchMenu.style.left = getposOffset(searchButton, "left");
+    searchMenu.style.top = getposOffset(searchButton, "top") + searchButton.offsetHeight;
+
+    if (searchMenu.style.visibility == "hidden") {
+      searchMenu.style.visibility = "visible";
+      searchMenu.style.display = 'block';
+    } else {
+      searchMenu.style.visibility = "hidden";
+      searchMenu.style.display = 'none';
+    }
+  }
+
+function ToggleMenuOnOff (menuName) {
+    menu = document.getElementById(menuName);
+
+    if (menu.style.display == 'none') {
+      menu.style.display = 'block';
+    } else {
+      menu.style.display = 'none';
+    }
+
+}
+
+function OpenWindow (target) { 
+  window.open(target, "_Child", "toolbar=no,scrollbars=yes,resizable=yes,width=500,height=400"); 
+}
+*/
+	function Flip(Target) {
+		if (Target.style.visibility == "hidden") {
+			Target.style.visibility = "visible";
+			Target.style.display = 'inline';
+		} else {
+			Target.style.visibility = "hidden";
+			Target.style.display = 'none';
+		}
+	}
+
+  function ToggleRateMenu(evt) {
+  var isNav = (navigator.appName == "Netscape");
+	if (!isNav)
+	{
+		evt = (evt) ? evt : ((window.event)?event:null);
+		var pos = evt.y;
+		// Which button was pressed?
+		// Get the max y coordinate for the bottom button
+		var rateMenu = document.getElementById('RateMenu');
+		var rateButtons = document.getElementsByName('RateButton');
+		var topY = getposOffset(rateButtons[0], "top");
+		if (pos >= topY+15) { // Bottom button
+			rateButton = rateButtons[1]; 
+			rateMenu.style.left = getposOffset(rateButton, "left")+"px";
+			rateMenu.style.top = getposOffset(rateButton, "top")+"px";
+			
+			if (rateMenu.style.visibility == "hidden") {
+			rateMenu.style.visibility = "visible";
+			rateMenu.style.display = 'block';
+			} else {
+			rateMenu.style.visibility = "hidden";
+			rateMenu.style.display = 'none';
+			}
+			
+		}
+		else // Top button
+		{	
+			rateButton = rateButtons[0]; 
+			rateMenu.style.left =  getposOffset(rateButton, "left"); //rateButton.offsetLeft + 1;
+			rateMenu.style.top = getposOffset(rateButton, "top") ;
+			
+			if (rateMenu.style.visibility == "hidden") {
+				rateMenu.style.visibility = "visible";
+				rateMenu.style.display = 'block';
+			} else {
+				rateMenu.style.visibility = "hidden";
+				rateMenu.style.display = 'none';
+			}
+		}
+    }
+    else
+    {
+		// Netscape / Firefox browsers
+		ToggleRateMenuNetscape(evt);
+    }
+  }
+  
+  // Netscape browsers
+  function ToggleRateMenuNetscape(evt)
+  {
+	var pos = evt.pageY;
+	var rateMenu = document.getElementById('RateMenu');
+	
+	var vElements = new Array(); 
+	vElements = document.getElementsByTagName('span');
+	var rateButtons = new Array();
+	for(var i=0;i < vElements.length;i++)
+	{
+		if (vElements.item(i).getAttribute('id') == "RateButton")
+		{
+			rateButtons.push(vElements.item(i));
+		}
+	}
+	var r1 = rateButtons[0];
+	var topY = getposOffset(r1,"top");
+	
+	if (pos >= topY+15) {
+		rateButton = rateButtons[1]; 
+		rateMenu.style.left = getposOffset(rateButton, "left") + "px";;
+		rateMenu.style.top = getposOffset(rateButton, "top")- 4 +"px";
+
+		if (rateMenu.style.visibility == "hidden") {
+			rateMenu.style.visibility = "visible";
+			rateMenu.style.display = 'block';
+		} else {
+			rateMenu.style.visibility = "hidden";
+			rateMenu.style.display = 'none';
+		}
+	}
+	else
+	{
+		rateButton = rateButtons[0]; 
+		rateMenu.style.left = getposOffset(rateButton, "left") + "px";
+		rateMenu.style.top = getposOffset(rateButton, "top") - 4  + "px" ;
+		
+		if (rateMenu.style.visibility == "hidden") {
+			rateMenu.style.visibility = "visible";
+			rateMenu.style.display = 'block';
+		} else {
+			rateMenu.style.visibility = "hidden";
+			rateMenu.style.display = 'none';
+		}
+	}
+  }
+   
+  function getposOffset(what, offsettype){
+		var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
+		var parentEl=what.offsetParent;
+		while (parentEl!=null){
+			totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+			parentEl=parentEl.offsetParent;
+		}
+		return totaloffset;
+	}
+ 
+  function ToggleSearchMenu() {
+    searchMenu = document.getElementById('SearchMenu');
+    searchButton = document.getElementById('SearchButton');
+
+    searchMenu.style.left = getposOffset(searchButton, "left");
+    searchMenu.style.top = getposOffset(searchButton, "top") + searchButton.offsetHeight;
+
+    if (searchMenu.style.visibility == "hidden") {
+      searchMenu.style.visibility = "visible";
+      searchMenu.style.display = 'block';
+    } else {
+      searchMenu.style.visibility = "hidden";
+      searchMenu.style.display = 'none';
+    }
+  }
+
+function ToggleMenuOnOff (menuName) {
+    menu = document.getElementById(menuName);
+
+    if (menu.style.display == 'none') {
+      menu.style.display = 'block';
+    } else {
+      menu.style.display = 'none';
+    }
+
+}
+
+function OpenWindow (target) { 
+  window.open(target, "_Child", "toolbar=no,scrollbars=yes,resizable=yes,width=500,height=400"); 
+}
+
+/*
+     FILE ARCHIVED ON 05:23:35 Dec 25, 2009 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:43:02 Oct 17, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/

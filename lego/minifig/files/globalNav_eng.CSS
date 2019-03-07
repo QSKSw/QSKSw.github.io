@@ -1,0 +1,361 @@
+#h-Container{
+padding:  5px 0px 0px 0px;
+margin: 0px 0px 0px 0px;
+width: 770px;
+height: 62px;
+background-image: url(https://web.archive.org/web/20090721082437im_/http://cache.lego.com/eng/images/globalNav/770x001_bg_tile.gif);
+background-repeat: repeat;
+}
+
+#h-legoLogo {
+padding: 0px 0px 0px 10px;
+margin: 0px 14px 0px 0px;
+width: 49px;
+height: 49px;
+float: left;
+display: inline;
+}
+
+#h-navButtons{
+float: left;
+display: inline;
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+list-style: none;
+}
+
+#h-navButtons li{
+width: 85px;
+height: 50px;
+float: left;
+margin: 0px 3px 0px 0px;
+padding: 0px 0px 0px 0px;
+list-style: none;
+background-repeat: no-repeat;
+}
+
+#h-navButtons a {
+width: 85px;
+height: 50px;
+display: block;
+background-repeat: no-repeat;
+}
+
+#h-homeButton {
+background-image: url(https://web.archive.org/web/20090721082437im_/http://cache.lego.com/eng/images/globalNav/085x050_home_off.gif);
+}
+
+#h-homeButton a:hover{
+background-image: url(https://web.archive.org/web/20090721082437im_/http://cache.lego.com/eng/images/globalNav/085x050_home_on.gif);
+}
+
+#h-productsButton {
+background-image: url(https://web.archive.org/web/20090721082437im_/http://cache.lego.com/eng/images/globalNav/085x050_products_off.gif);
+}
+
+#h-productsButton a:hover{
+background-image: url(https://web.archive.org/web/20090721082437im_/http://cache.lego.com/eng/images/globalNav/085x050_products_on.gif);
+}
+
+#h-clubButton {
+background-image: url(https://web.archive.org/web/20090721082437im_/http://cache.lego.com/eng/images/globalNav/085x050_play_off.gif);
+}
+
+#h-clubButton a:hover{
+background-image: url(https://web.archive.org/web/20090721082437im_/http://cache.lego.com/eng/images/globalNav/085x050_play_on.gif);
+}
+
+#h-shopButton {
+background-image: url(https://web.archive.org/web/20090721082437im_/http://cache.lego.com/eng/images/globalNav/085x050_store_off.gif);
+}
+
+#h-shopButton a:hover{
+background-image: url(https://web.archive.org/web/20090721082437im_/http://cache.lego.com/eng/images/globalNav/085x050_store_on.gif);
+}
+
+/*--START search--*/
+
+#h-searchContainer{
+padding: 0px 0px 0px 0px;
+margin: 0px 0px 0px 12px;
+width: 175px;
+height: 33px;
+background-image: url(https://web.archive.org/web/20090721082437im_/http://cache.lego.com/eng/images/globalNav/175x033_search_bg.gif);
+background-repeat: no-repeat;
+float: left;
+}
+
+#h-searchContainer form{
+padding: 0px 0px 0px 10px;
+margin: 7px 0px 0px 0px;
+}
+
+#h-searchForm {
+padding-left: 9px;
+padding-top: 7px;
+}
+
+#h-searchFormTextInput{
+padding: 1px 2px 1px 2px;
+margin: 0px 3px 0px 0px;
+width: 85px;
+font: 10px/14px Verdana, Tahoma, Arial, sans-serif;
+color: #000000;
+float: left;
+}
+
+#h-searchFormTextImage{
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+float: left;
+}
+
+#h-privacy-bar{
+margin-top: 6px;
+padding-top: 8px;
+width: 175px;
+background-image: url(https://web.archive.org/web/20090721082437im_/http://cache.lego.com/eng/images/globalNav/175x009_privacy_dots.gif);
+background-repeat: no-repeat;
+}
+
+#h-privacy-bar img{
+margin-top: 0px;
+border: 0px;
+}
+
+/*--END search--*/
+
+
+/*--START LMF login and register--*/
+
+#h-LMFContainer{
+padding: 0px;
+margin: 0px 0px 6px 6px;
+width: 148px;
+height: 50px;
+background-image: url(https://web.archive.org/web/20090721082437im_/http://cache.lego.com/eng/images/globalNav/148x050_logout_play_bg.gif);
+background-repeat: no-repeat;
+float: left;
+display: inline;
+}
+
+#h-LMFContainer ul {
+list-style: none;
+margin: 21px 0px 0px 55px;
+padding: 0px;
+}
+
+#h-LMFContainer li {
+padding: 0px;
+margin: 0px;
+}
+
+#h-LMFContainer li p{
+padding: 0px;
+margin: 0px;
+}
+
+a#h-signIn{
+font: 10px/12px Verdana, Tahoma, Arial, sans-serif;
+color: #999999;
+font-weight: bold;
+text-decoration: none;
+}
+
+a#h-signIn:hover{
+font: 10px/12px Verdana, Tahoma, Arial, sans-serif;
+color: #999999;
+font-weight: bold;
+text-decoration: underline;
+}
+
+a#h-registerNow{
+font: 10px/12px Verdana, Tahoma, Arial, sans-serif;
+color: #228DC5;
+font-weight: bold;
+text-decoration: none;
+}
+
+a#h-registerNow:hover{
+font: 10px/12px Verdana, Tahoma, Arial, sans-serif;
+color: #228DC5;
+font-weight: bold;
+text-decoration: underline;
+
+}
+
+/*--END LMF login and register--*/
+
+/*--START LMF Username and avatar--*/
+
+#h-LoginContainer{
+padding: 0px;
+margin: 0px 0px 6px 6px;
+width: 148px;
+height: 50px;
+background-image: url(https://web.archive.org/web/20090721082437im_/http://cache.lego.com/eng/images/globalNav/148x050_login_play_bg.gif);
+background-repeat: no-repeat;
+float: left;
+display: inline;
+}
+
+#h-LoginContainer ul {
+list-style: none;
+margin: 21px 0px 0px 0px;
+padding: 0px;
+float: left;
+}
+
+#h-LoginContainer li {
+padding: 0px;
+margin: 0px;
+}
+
+#h-LoginContainer li p{
+padding: 0px;
+margin: 0px;
+}
+
+a#h-signOut{
+font: 10px/12px Verdana, Tahoma, Arial, sans-serif;
+color: #999999;
+font-weight: bold;
+text-decoration: none;
+}
+
+a#h-signOut:hover{
+font: 10px/12px Verdana, Tahoma, Arial, sans-serif;
+color: #999999;
+font-weight: bold;
+text-decoration: underline;
+}
+
+a#h-UserName{
+font: 10px/12px Verdana, Tahoma, Arial, sans-serif;
+color: #228DC5;
+font-weight: bold;
+text-decoration: none;
+}
+
+a#h-UserName:hover{
+font: 10px/12px Verdana, Tahoma, Arial, sans-serif;
+color: #228DC5;
+font-weight: bold;
+text-decoration: underline;
+}
+
+a#h-Avatar {
+	float: left;
+}
+
+/*--END LMF Username and avitar--*/
+
+
+
+#h-sectionColorBar{
+padding: 0px 0px 0px 0px;
+margin: 0px 0px 0px 0px;
+width: 770px;
+height: 4px;
+background-color: #23A3D5;
+border-bottom: 2px solid #1D87B1;
+clear: left;
+font-size: 1px;
+}
+
+.RegionInfo
+{
+font-weight: bold;
+font-size: 10px;
+background-image: url(https://web.archive.org/web/20090721082437im_/http://cache.lego.com/eng/images/globalNav/770x001_bg_tile.gif);
+width: 770px;
+color: #2489bd;
+font-family: Verdana, Monospace;
+padding-top: 3px;
+}
+
+.RegionInfo A 
+{
+font-weight: bold !important;
+color: #2489bd !important;
+text-decoration: underline !important;
+font-size: 10px !important;
+}
+
+.RegionInfo Img
+{
+margin-left:630px;
+margin-right:5px;
+vertical-align: bottom;
+}
+
+
+
+
+/*--START LEGO ID--*/
+
+#h-LEGOIDContainerSignedOut, #h-LEGOIDContainerSignedIn{
+padding: 0px;
+margin: 0px 0px 6px 6px;
+width: 147px;
+height: 51px;
+background-image: url(https://web.archive.org/web/20090721082437im_/http://cache.lego.com/eng/images/globalNav/img147x50_950.gif);
+background-repeat: no-repeat;
+float: left;
+display: inline;
+overflow:hidden;
+}
+
+#h-LEGOIDContainerSignedOut ul {
+list-style: none;
+margin: 0px 0px 0px 0px;
+padding: 8px 0px 0px 78px;
+float: left;
+}
+#h-LEGOIDContainerSignedOut li {
+padding: 0px 0px 0px 0px ;
+margin: 0px;
+line-height:16px;
+}
+
+#h-LEGOIDContainerSignedIn ul {
+list-style: none;
+margin: 0px 0px 0px 0px;
+padding: 5px 0px 5px 78px;
+float: left;
+}
+#h-LEGOIDContainerSignedIn li {
+padding: 0px 0 0 0;
+margin: 0px;
+line-height:12px;
+}
+
+#h-LEGOIDUsername{
+font: 9px/14px Verdana, Tahoma, Arial, sans-serif;
+color: #68b4da;
+font-weight: bold;
+text-decoration: none;
+}
+
+a#h-LEGOIDEdit, a#h-LEGOIDSignIn, a#h-LEGOIDSignOut, a#h-LEGOIDSignUp{
+font: 9px/14px Verdana, Tahoma, Arial, sans-serif;
+color: #0186c9;
+font-weight: bold;
+text-decoration: none;
+}
+
+a#h-LEGOIDEdit:hover, a#h-LEGOIDSignIn:hover, a#h-LEGOIDSignOut:hover, a#h-LEGOIDSignUp:hover{
+text-decoration: underline;
+}
+
+/*--END LEGO ID--*/
+
+
+/*
+     FILE ARCHIVED ON 08:24:37 Jul 21, 2009 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:43:02 Oct 17, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
