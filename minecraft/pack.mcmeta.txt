@@ -1,7 +1,7 @@
 {
    "pack":{
       "pack_format":5,
-      "description":"§9§lThe Beaverhouse§r §fServer Pack §6(2020-05-20-23-47)§r"
+      "description":"§9§lThe Beaverhouse§r §fServer Pack §6(2020-05-23-00-00)§r"
    },
    "language":{
       "en_us":{
