@@ -1,0 +1,13 @@
+{
+   "pack":{
+      "pack_format":5,
+      "description":"§9§lThe Beaverhouse§r §fServer Pack §6(2020-06-18-11-01)§r"
+   },
+   "language":{
+      "en_us":{
+         "name":"Chi-Chitopian English",
+         "region":"Va-Metru",
+         "bidirectional":false
+      }
+   }
+}
