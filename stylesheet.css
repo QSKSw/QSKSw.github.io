@@ -1,3 +1,11 @@
+
+@media only screen and (max-width: 600px) {
+  body {
+    margin-left:0px;
+	margin-right:0px;
+  }
+}
+
 .thumbnail {
 	position: relative;
 	z-index:0;
@@ -77,7 +85,7 @@
 
 .wrap {
 	width:100%;
-	margin:0auto;
+	margin:auto;
 }
 
 a {
@@ -103,6 +111,7 @@ a:hover, a:visited {
 a:link {
 	color:#FFF;
 	text-decoration:none;
+	border-bottom:1px dotted #FFFFFF;
 }
 
 a.footer {
@@ -123,13 +132,14 @@ a.img_link {
 
 body {
 	background:#000000;
+	background-color:#000;
 	color:#FFFFFF;
 	float:center;
 	margin-left:450px;
 	margin-right:450px;
 	padding:5px;
 	text-align:center;
-	text-decoration:none;
+	text-decoration:none;	
 }
 
 footer, div.footer {
@@ -199,13 +209,6 @@ th, td {
 u {
 	text-decoration:inherit;
 	border-bottom:1px solid #47B2FF;
-}
-
-body {
-    color:#FFF;
-    background-color:#000;
-    text-align: center;
-    text-decoration: none;
 }
 
 a:link {

@@ -1,0 +1,84 @@
+
+  /* Blue 47B2FF */
+  /* Yellow FFD800 */
+  /* Pink FF7FED */
+
+
+/* For Desktop: */
+
+@media only screen and (min-width: 768px) {
+	body {
+		background-color:#000;
+		color:#FFFFFF;
+		float:center;
+		margin-left:450px;
+		margin-right:450px;
+		padding:5px;
+		text-align:center;
+		text-decoration:none;
+	}
+
+	a, a:link {
+		color:#47B2FF;
+		text-decoration:none;
+		border-bottom:1px solid;
+	}
+
+	a:active, a:focus, a:hover, a:visited {
+		color:#FF7FED;
+		border-bottom:1px solid #47B2FF;
+	}
+	
+	a:active:visited, a:focus:visited, a:hover:visited {
+		color:#FFD800;
+		border-bottom:1px solid #FFD800;
+	}
+
+	.anno, .anno2 {
+		color:#FFF;
+		border-bottom:1px dotted;
+	}
+	
+	img.thumbnail {
+		width:200px;
+	}
+	
+	p {
+		margin-bottom:20px;
+	}
+
+/* For Mobile, Portrait: */
+
+@media only screen and (orientation: portrait) {
+	body {
+	background-color:#000;
+	color:#FFFFFF;
+	float:center;
+	margin-left:auto;
+	margin-right:auto;
+	padding:5px;
+	text-align:center;
+	text-decoration:none;
+	}
+	
+	.anno2 {
+		color:#FFF;
+		border-bottom:4px dotted;
+	}
+	
+	img.thumbnail {
+		width:320px;
+	}
+	
+	h1.fuck {
+		margin-bottom:85px;
+	}
+	
+	hr {
+		margin-top:30px;
+		margin-bottom:30px;
+	}
+	
+	p {
+		margin-bottom:35px;
+	}
